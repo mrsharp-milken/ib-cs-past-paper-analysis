@@ -1,8 +1,8 @@
-topic,count,total_marks,min_combined_marks,median_combined_marks,max_combined_marks,min_papers,max_papers
-1,147,361,7,18,25,May 2015,Nov 2021
-2,106,220,4,10,22,May 2014; May 2021,Nov 2024
-3,96,264,4,14,19,May 2022,Nov 2024
-4,119,355,2,14,33,May 2023,May 2014
-5,198,593,15,30,42,May 2014,Nov 2024
-6,43,109,2,4,11,May 2014; Nov 2014; Nov 2019; Nov 2022,May 2021; Nov 2020
-7,61,198,2,9,18,Nov 2024,May 2015
+topic,count,total_marks,min_qs,median_qs,max_qs,min_marks,median_marks,max_marks,min_marks_papers,max_marks_papers
+1,147,361,3,7,10,7,18,25,May 2015,Nov 2021
+2,106,220,2,5,11,4,10,22,May 2014; May 2021,Nov 2024
+3,96,264,2,5,6,4,14,19,May 2022,Nov 2024
+4,119,355,1,6,10,2,14,33,May 2023,May 2014
+5,198,593,5,9,16,15,30,42,May 2014,Nov 2024
+6,43,109,1,2,5,2,4,11,May 2014; Nov 2014; Nov 2019; Nov 2022,May 2021; Nov 2020
+7,61,198,1,3,5,2,9,18,Nov 2024,May 2015

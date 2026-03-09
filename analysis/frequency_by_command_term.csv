@@ -1,25 +1,25 @@
-command_term,count,total_marks,min_combined_marks,median_combined_marks,max_combined_marks,min_papers,max_papers
-Outline,157,397,8,18,32,Nov 2019,Nov 2021
-Identify,101,165,2,9,16,May 2015; May 2018; Nov 2024,May 2021
-State,99,124,0,6,14,May 2018,Nov 2016
-Construct,90,418,13,19,32,Nov 2021,May 2014
-Explain,88,308,5,14,26,May 2014,Nov 2021
-Describe,83,245,4,11,19,May 2022; Nov 2021,Nov 2020
-Define,26,32,0,1,5,May 2015; May 2016; May 2021; Nov 2018; Nov 2020; Nov 2021; Nov 2024,Nov 2022
-Determine,18,53,0,2,11,May 2014; May 2015; May 2016; May 2017; May 2019; May 2021; May 2022; Nov 2014; Nov 2018,Nov 2017
-Discuss,16,73,0,0,13,May 2017; May 2019; May 2021; May 2024; Nov 2016; Nov 2017; Nov 2018; Nov 2020; Nov 2022; Nov 2023; Nov 2024,May 2016
-Compare,16,52,0,3,8,May 2014; May 2016; May 2017; May 2019; May 2021; May 2022; May 2023; Nov 2022; Nov 2024,Nov 2017; Nov 2020
-Sketch,13,37,0,2,6,May 2016; May 2017; May 2019; May 2022; Nov 2014; Nov 2015; Nov 2017; Nov 2020; Nov 2022; Nov 2024,Nov 2019
-Suggest,12,28,0,0,5,May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2015; Nov 2016; Nov 2019; Nov 2020; Nov 2021; Nov 2024,May 2017
-Distinguish,8,24,0,0,6,May 2015; May 2017; May 2018; May 2019; May 2022; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2019; Nov 2020; Nov 2021; Nov 2023; Nov 2024,May 2014; Nov 2018
-Calculate,7,11,0,0,4,May 2015; May 2016; May 2017; May 2019; May 2023; May 2024; Nov 2014; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2022
-Draw,7,22,0,0,8,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2023; May 2024; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,Nov 2015
-Evaluate,6,27,0,0,9,May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2020; Nov 2022; Nov 2023; Nov 2024,Nov 2019
-Complete,6,27,0,0,6,May 2014; May 2015; May 2016; May 2017; May 2018; May 2023; Nov 2015; Nov 2016; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2022
-Trace,6,22,0,0,10,May 2014; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2015; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2015
-List,3,13,0,0,6,May 2014; May 2015; May 2016; May 2018; May 2019; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2017
-Contrast,3,7,0,0,4,May 2014; May 2015; May 2016; May 2017; May 2018; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2021
-Deduce,2,4,0,0,2,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2020; Nov 2021; Nov 2022; Nov 2024,Nov 2019; Nov 2023
-Apply,1,3,0,0,3,May 2014; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2015
-Compare and contrast,1,4,0,0,4,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2023
-Justify,1,4,0,0,4,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023,Nov 2024
+command_term,count,total_marks,min_qs,median_qs,max_qs,min_marks,median_marks,max_marks,min_marks_papers,max_marks_papers
+Outline,157,397,3,7,12,8,18,32,Nov 2019,Nov 2021
+Identify,101,165,1,5,9,2,9,16,May 2015; May 2018; Nov 2024,May 2021
+State,99,124,0,4,11,0,6,14,May 2018,Nov 2016
+Construct,90,418,2,4,6,13,19,32,Nov 2021,May 2014
+Explain,88,308,2,4,8,5,14,26,May 2014,Nov 2021
+Describe,83,245,1,4,7,4,11,19,May 2022; Nov 2021,Nov 2020
+Define,26,32,0,1,4,0,1,5,May 2015; May 2016; May 2021; Nov 2018; Nov 2020; Nov 2021; Nov 2024,Nov 2022
+Determine,18,53,0,1,4,0,2,11,May 2014; May 2015; May 2016; May 2017; May 2019; May 2021; May 2022; Nov 2014; Nov 2018,Nov 2017
+Discuss,16,73,0,0,3,0,0,13,May 2017; May 2019; May 2021; May 2024; Nov 2016; Nov 2017; Nov 2018; Nov 2020; Nov 2022; Nov 2023; Nov 2024,May 2016
+Compare,16,52,0,1,2,0,3,8,May 2014; May 2016; May 2017; May 2019; May 2021; May 2022; May 2023; Nov 2022; Nov 2024,Nov 2017; Nov 2020
+Sketch,13,37,0,1,2,0,2,6,May 2016; May 2017; May 2019; May 2022; Nov 2014; Nov 2015; Nov 2017; Nov 2020; Nov 2022; Nov 2024,Nov 2019
+Suggest,12,28,0,0,3,0,0,5,May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2015; Nov 2016; Nov 2019; Nov 2020; Nov 2021; Nov 2024,May 2017
+Distinguish,8,24,0,0,2,0,0,6,May 2015; May 2017; May 2018; May 2019; May 2022; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2019; Nov 2020; Nov 2021; Nov 2023; Nov 2024,May 2014; Nov 2018
+Calculate,7,11,0,0,2,0,0,4,May 2015; May 2016; May 2017; May 2019; May 2023; May 2024; Nov 2014; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2022
+Draw,7,22,0,0,3,0,0,8,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2023; May 2024; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,Nov 2015
+Evaluate,6,27,0,0,2,0,0,9,May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2020; Nov 2022; Nov 2023; Nov 2024,Nov 2019
+Complete,6,27,0,0,1,0,0,6,May 2014; May 2015; May 2016; May 2017; May 2018; May 2023; Nov 2015; Nov 2016; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2022
+Trace,6,22,0,0,2,0,0,10,May 2014; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2015; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2015
+List,3,13,0,0,1,0,0,6,May 2014; May 2015; May 2016; May 2018; May 2019; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2017
+Contrast,3,7,0,0,2,0,0,4,May 2014; May 2015; May 2016; May 2017; May 2018; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2021
+Deduce,2,4,0,0,1,0,0,2,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2020; Nov 2021; Nov 2022; Nov 2024,Nov 2019; Nov 2023
+Apply,1,3,0,0,1,0,0,3,May 2014; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2015
+Compare and contrast,1,4,0,0,1,0,0,4,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023; Nov 2024,May 2023
+Justify,1,4,0,0,1,0,0,4,May 2014; May 2015; May 2016; May 2017; May 2018; May 2019; May 2021; May 2022; May 2023; May 2024; Nov 2014; Nov 2015; Nov 2016; Nov 2017; Nov 2018; Nov 2019; Nov 2020; Nov 2021; Nov 2022; Nov 2023,Nov 2024

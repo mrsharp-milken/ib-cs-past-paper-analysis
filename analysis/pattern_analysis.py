@@ -53,12 +53,14 @@ def parse_marks(marks_str: str) -> int:
 
 def compute_frequency_with_marks(rows, key_fn, all_keys=None):
     """
-    Compute count, total_marks, and per-paper combined marks stats.
+    Compute count, total_marks, per-paper question counts, and per-paper marks.
     key_fn(row) -> key or list of keys (e.g. for concepts).
-    Returns dict: key -> {count, total_marks, combined_per_paper: list}
+    Returns dict: key -> {count, total_marks, questions_per_paper, combined_per_paper}
     """
     count_by_key = Counter()
     total_marks_by_key = defaultdict(int)
+    # questions_per_paper[key] = {paper_id: num_questions}
+    questions_per_paper = defaultdict(lambda: defaultdict(int))
     # combined_per_paper[key] = {paper_id: sum_of_marks}
     combined_per_paper = defaultdict(lambda: defaultdict(int))
 
@@ -73,14 +75,25 @@ def compute_frequency_with_marks(rows, key_fn, all_keys=None):
                 continue
             count_by_key[k] += 1
             total_marks_by_key[k] += marks
+            questions_per_paper[k][paper_id] += 1
             combined_per_paper[k][paper_id] += marks
 
     return {
         "count": count_by_key,
         "total_marks": dict(total_marks_by_key),
+        "questions_per_paper": dict(questions_per_paper),
         "combined_per_paper": dict(combined_per_paper),
         "all_keys": all_keys,
     }
+
+
+def get_question_stats(questions_per_paper, key, all_papers):
+    """Return (min, median, max) of question count per paper for given key. Papers with no questions count as 0."""
+    paper_qs = questions_per_paper.get(key, {})
+    per_paper = [paper_qs.get(pid, 0) for pid in all_papers]
+    if not per_paper:
+        return 0, 0, 0
+    return min(per_paper), statistics.median(per_paper), max(per_paper)
 
 
 def get_marks_stats(combined_per_paper, key, all_papers):
@@ -105,27 +118,31 @@ def get_min_max_papers(combined_per_paper, key, all_papers):
 
 
 def write_frequency_csv(data, out_path, col_name, all_papers, all_keys=None):
-    """Write CSV with col_name, count, total_marks, min/median/max, min_papers, max_papers."""
+    """Write CSV with col_name, count, total_marks, min/med/max Qs, min/med/max Marks, min_papers, max_papers."""
     count_by = data["count"]
     total_marks_by = data["total_marks"]
+    questions_per_paper = data["questions_per_paper"]
     combined_per_paper = data["combined_per_paper"]
 
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow([
             col_name, "count", "total_marks",
-            "min_combined_marks", "median_combined_marks", "max_combined_marks",
-            "min_papers", "max_papers",
+            "min_qs", "median_qs", "max_qs",
+            "min_marks", "median_marks", "max_marks",
+            "min_marks_papers", "max_marks_papers",
         ])
 
         keys = all_keys if all_keys is not None else [k for k, _ in count_by.most_common()]
         for key in keys:
             count = count_by.get(key, 0)
             total = total_marks_by.get(key, 0)
-            mn, med, mx = get_marks_stats(combined_per_paper, key, all_papers)
+            qs_mn, qs_med, qs_mx = get_question_stats(questions_per_paper, key, all_papers)
+            mk_mn, mk_med, mk_mx = get_marks_stats(combined_per_paper, key, all_papers)
             min_ps, max_ps = get_min_max_papers(combined_per_paper, key, all_papers)
-            med_str = int(med) if med == int(med) else round(med, 1)
-            w.writerow([key, count, total, mn, med_str, mx, min_ps, max_ps])
+            qs_med_str = int(qs_med) if qs_med == int(qs_med) else round(qs_med, 1)
+            mk_med_str = int(mk_med) if mk_med == int(mk_med) else round(mk_med, 1)
+            w.writerow([key, count, total, qs_mn, qs_med_str, qs_mx, mk_mn, mk_med_str, mk_mx, min_ps, max_ps])
 
 
 def main():
@@ -180,7 +197,7 @@ def main():
         "",
         f"Based on {n_questions} question parts from {n_papers} papers.",
         "",
-        "**Column note:** Min, median, and max are **combined marks per paper** (each paper contributes one value; papers with no questions on that topic/subtopic/concept count as 0).",
+        "**Column note:** Median # of Qs = median questions per paper; Median Marks = median marks per paper. Papers with no questions on that topic/subtopic/concept count as 0.",
         "",
         "---",
         "",
@@ -188,16 +205,17 @@ def main():
         "",
         "**All syllabus topics** (1-7) with question counts and marks:",
         "",
-        "| Topic | Name | Count | % | Total marks | Min (per paper) | Median (per paper) | Max (per paper) |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Topic | Name | Count | % | Total marks | Median # of Qs | Median Marks |",
+        "| --- | --- | --- | --- | --- | --- | --- |",
     ]
     for topic in ALL_TOPICS:
         count = by_topic.get(topic, 0)
         pct = 100 * count / n_questions if n_questions else 0
         name = TOPIC_NAMES.get(topic, f"Topic {topic}")
         total_m = topic_data["total_marks"].get(topic, 0)
-        mn, med, mx = get_marks_stats(topic_data["combined_per_paper"], topic, all_papers)
-        lines.append(f"| {topic} | {name} | {count} | {pct:.1f}% | {total_m} | {mn} | {fmt_med(med)} | {mx} |")
+        _, qs_med, _ = get_question_stats(topic_data["questions_per_paper"], topic, all_papers)
+        _, mk_med, _ = get_marks_stats(topic_data["combined_per_paper"], topic, all_papers)
+        lines.append(f"| {topic} | {name} | {count} | {pct:.1f}% | {total_m} | {fmt_med(qs_med)} | {fmt_med(mk_med)} |")
     lines.extend([
         "",
         "**High-frequency** (most tested): Topics 4, 1, 2, 5, 3. **Rare or absent in Paper 1 HL:** Topic 6 (Resource management), Topic 7 (Control).",
@@ -206,41 +224,44 @@ def main():
         "",
         "**All syllabus subtopics:**",
         "",
-        "| Subtopic | Count | % | Total marks | Min (per paper) | Median (per paper) | Max (per paper) |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Subtopic | Count | % | Total marks | Median # of Qs | Median Marks |",
+        "| --- | --- | --- | --- | --- | --- |",
     ])
     for st in ALL_SUBTOPICS:
         count = by_subtopic.get(st, 0)
         pct = 100 * count / n_questions if n_questions else 0
         total_m = subtopic_data["total_marks"].get(st, 0)
-        mn, med, mx = get_marks_stats(subtopic_data["combined_per_paper"], st, all_papers)
-        lines.append(f"| {st} | {count} | {pct:.1f}% | {total_m} | {mn} | {fmt_med(med)} | {mx} |")
+        _, qs_med, _ = get_question_stats(subtopic_data["questions_per_paper"], st, all_papers)
+        _, mk_med, _ = get_marks_stats(subtopic_data["combined_per_paper"], st, all_papers)
+        lines.append(f"| {st} | {count} | {pct:.1f}% | {total_m} | {fmt_med(qs_med)} | {fmt_med(mk_med)} |")
     lines.extend([
         "",
         "## Common concepts",
         "",
         "Concepts that appear in many questions (top 15):",
         "",
-        "| Concept | Count | Total marks | Min (per paper) | Median (per paper) | Max (per paper) |",
-        "| --- | --- | --- | --- | --- | --- |",
+        "| Concept | Count | Total marks | Median # of Qs | Median Marks |",
+        "| --- | --- | --- | --- | --- |",
     ])
     for concept, count in by_concept.most_common(15):
         total_m = concept_data["total_marks"].get(concept, 0)
-        mn, med, mx = get_marks_stats(concept_data["combined_per_paper"], concept, all_papers)
-        lines.append(f"| {concept} | {count} | {total_m} | {mn} | {fmt_med(med)} | {mx} |")
+        _, qs_med, _ = get_question_stats(concept_data["questions_per_paper"], concept, all_papers)
+        _, mk_med, _ = get_marks_stats(concept_data["combined_per_paper"], concept, all_papers)
+        lines.append(f"| {concept} | {count} | {total_m} | {fmt_med(qs_med)} | {fmt_med(mk_med)} |")
     lines.extend([
         "",
         "## Command terms",
         "",
         "Most used command terms:",
         "",
-        "| Command term | Count | Total marks | Min (per paper) | Median (per paper) | Max (per paper) |",
-        "| --- | --- | --- | --- | --- | --- |",
+        "| Command term | Count | Total marks | Median # of Qs | Median Marks |",
+        "| --- | --- | --- | --- | --- |",
     ])
     for ct, count in by_command.most_common(10):
         total_m = command_data["total_marks"].get(ct, 0)
-        mn, med, mx = get_marks_stats(command_data["combined_per_paper"], ct, all_papers)
-        lines.append(f"| {ct} | {count} | {total_m} | {mn} | {fmt_med(med)} | {mx} |")
+        _, qs_med, _ = get_question_stats(command_data["questions_per_paper"], ct, all_papers)
+        _, mk_med, _ = get_marks_stats(command_data["combined_per_paper"], ct, all_papers)
+        lines.append(f"| {ct} | {count} | {total_m} | {fmt_med(qs_med)} | {fmt_med(mk_med)} |")
 
     OUTPUT_MD.write_text("\n".join(lines), encoding="utf-8")
     print("Pattern summary written to", OUTPUT_MD)
