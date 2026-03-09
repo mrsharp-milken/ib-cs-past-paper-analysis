@@ -1,0 +1,40 @@
+question,marks,command_term,topic,subtopic,concepts
+1a,1,State,1,1.1,SaaS; remote hosting; client hardware
+1b,1,State,1,1.1,SaaS; remote hosting; drawbacks
+2,2,Describe,1,1.1,user acceptance testing; testing
+3,1,Define,1,1.2,peripheral; hardware; software
+4,2,State,1,1.2,usability; digital devices; mobile
+5,2,Identify,1,1.2,accessibility
+6,2,Outline,2,2.1,CPU; registers; MDR
+7a,1,State,2,2.1,binary; denary; number representation
+7b,1,State,2,2.1,hexadecimal; binary
+8,2,Identify,5,5.1,stack; applications
+9,4,Outline,6,6.1,operating system; resource management; scheduling; multitasking
+10,2,Outline,7,7.1,sensors; microprocessor; control systems
+11,4,Describe,7,7.1,feedback; sensors; microprocessor; control system
+12a(i),2,Identify,3,3.1,transmission media; fibre optic
+12a(ii),2,Identify,3,3.1,wireless; transmission; characteristics
+12b,3,Describe,3,3.1,encryption; network security; data protection
+12c,5,Explain,3,3.1,packet switching; data transmission
+12d,3,Explain,3,3.1,VPN; social implications; working patterns
+13a,1,Define,2,2.1,NOR; Boolean operator
+13b,4,Construct,2,2.1,logic diagram; Boolean; gates
+13c,2,State,4,4.1,logical rules; conditions; real-world
+13d,2,Determine,4,4.3,operators; comparison; Boolean expression; variables
+13e,6,Construct,4,4.2,pseudocode; algorithm; loop; branching
+14a,2,State,1,1.1,data loss; causes
+14b,2,Outline,1,1.1,data loss; consequences
+14c,2,Describe,1,1.1,prevent data loss; backup
+14d,2,Outline,1,1.1,data migration; problems
+14e,3,Compare,2,2.1,primary memory; secondary storage; persistent storage
+14f(i),1,Identify,6,6.1,resources; hardware; computer system
+14f(ii),3,Explain,6,6.1,resources; network connectivity; tablet; desktop
+15a(i),2,Outline,5,5.1,dynamic data structure; benefits
+15a(ii),2,Outline,5,5.1,dynamic data structure; drawbacks
+15b,5,Describe,5,5.1,linked list; operate logically; delete
+15c,2,Describe,5,5.1,binary tree; node; parent; left-child; right-child
+15d(i),3,Sketch,5,5.1,binary tree; inorder traversal
+15d(ii),1,State,5,5.1,binary tree; leaf
+16a,2,Construct,4,4.2,pseudocode; validation; loop; branching
+16b,5,Complete,4,4.2,trace table; analyse algorithm; sub-programmes
+16c,8,Construct,4,4.2,pseudocode; algorithm; sub-programmes; validation; strings

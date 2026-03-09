@@ -1,0 +1,35 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Describe,1,1.1,beta testing; user acceptance testing; testing strategies
+2,2,Identify,1,1.1,data loss; causes of data loss; hardware failure; human error
+3,2,Identify,1,1.1,software update; release management; bug fixes; security patches
+4,2,Explain,2,2.1,cache memory; CPU; processing speed; memory hierarchy
+5,2,Describe,6,6.1,memory management; operating system; multitasking; memory allocation
+6,2,Identify,3,3.1,OSI model; network layers; layered architecture
+7,3,Explain,3,3.1,data compression; lossy compression; data loss; quality degradation
+8,3,Explain,3,3.1,MAC address; network security; MAC filtering; access control
+9,3,Identify,5,5.1,doubly linked list; node; next pointer; previous pointer; data field
+10,2,Outline,5,5.1,recursion; call stack; stack frames; memory usage
+11,2,Identify,7,7.1,autonomous agents; distributed systems; self-directed behaviour
+12a(i),1,Define,1,1.1,data migration; definition
+12a(ii),4,Describe,1,1.1,data migration; data integrity; compatibility; format conversion; data loss
+12b,4,Describe,1,1.1,change management; business takeover; training; staff resistance; system implementation
+12c(i),3,Construct,2,2.1,truth table; AND gate; NAND gate; OR gate; logic diagram
+12c(ii),1,Identify,2,2.1,logic gate; equivalence; Boolean logic
+12d,2,Outline,2,2.1,truth table; equivalence testing; logic diagram verification
+13a,3,Trace,4,4.2,algorithm trace; pseudocode; collections; iteration; conditionals; mod operator
+13b,4,Outline,4,4.2,binary search; sorted array; algorithm; divide and conquer; low; high; mid
+13c,5,Construct,4,4.2,linear search; pseudocode; collection; array; algorithm construction; found; not found
+13d,3,Suggest,4,4.2,order checking; algorithm design; ascending order; binary search precondition
+14a,2,Outline,6,6.1,paging; virtual memory; memory management; secondary storage
+14b,3,Explain,6,6.1,RAM limitations; processor; resource constraints; gaming consequences; performance
+14c,2,Suggest,5,5.1,stack; LIFO; undo; game actions; applications of stack
+14d,6,Construct,5,5.1,stack; queue; access methods; pop; enqueue; algorithm; fixed size
+14e,2,Outline,5,5.1,dynamic data structure; queue; flexible size; memory efficiency
+15a,1,State,5,5.1,2D array; data calculation; total readings
+15b,4,Construct,5,5.1,2D array; algorithm; collection; data storage; temperature readings
+15c,6,Construct,5,5.1,2D array; algorithm; maximum value; output; day of week; string array
+15d,4,Explain,5,5.1,binary tree; BST; tree construction; tree traversal; descending order; sorted output
+16a,2,Define,7,7.1,embedded system; control system; microprocessor; dedicated hardware
+16b,2,Outline,7,7.1,feedback; control system; desired outcome; stability; error correction
+16c,6,List,7,7.1,feedback loop; sensor; processor; transducer; actuator; motor control; negative feedback
+16d,5,Explain,7,7.1,interrupt; sensor; actuator; processor; control system; interrupt handling; operating system

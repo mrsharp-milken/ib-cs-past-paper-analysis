@@ -1,0 +1,41 @@
+question,marks,command_term,topic,subtopic,concepts
+1a,2,Outline,3,3.1,computer network; types of networks
+1b,2,Describe,3,3.1,bandwidth; data transmission; speed
+2a,1,Identify,1,1.2,direct observation; obtaining requirements; stakeholders
+2b,1,Identify,1,1.2,direct observation; obtaining requirements
+3,3,Construct,2,2.1,logic diagram; Boolean; AND; OR; NOT
+4a,2,Identify,1,1.1,data migration; compatibility; legacy systems
+4b,2,Outline,3,3.1,VPN; remote access
+4c,2,Outline,1,1.2,social and ethical issues; new IT systems
+5,4,Describe,3,3.1,packet switching; data transmission
+6,3,Explain,5,5.1,stack; isEmpty; access methods
+7,3,Distinguish,6,6.1,scheduling; time slicing; priorities; resource management
+8a(i),3,Distinguish,2,2.1,RAM; ROM; primary memory
+8a(ii),2,Outline,6,6.1,operating system; memory management
+8b,4,Explain,2,2.1,data bus; address bus; machine instruction cycle
+8c(i),1,State,2,2.1,hexadecimal; binary representation
+8c(ii),1,State,2,2.1,byte; integers; representation
+8c(iii),2,Outline,2,2.1,character encoding; representation; Unicode
+8d,2,Construct,2,2.1,truth table; Boolean operators
+9a,2,Outline,4,4.3,higher level languages
+9b,4,Explain,4,4.3,sub-programmes; modularity; reuse; abstraction
+9c,3,Identify,4,4.3,collection; characteristics; applications
+9d,6,Construct,4,4.3,collection; access methods; algorithm
+10a(i),1,Identify,1,1.1,hardware security; prevent data loss
+10a(ii),1,Identify,1,1.1,software security; prevent data loss
+10b,1,Identify,3,3.1,network security; methods
+10c,3,Explain,7,7.1,control system; environmental benefit; pipeline
+10d,4,Explain,7,7.1,sensor; processor; output transducer; relationship
+10e,5,Construct,1,1.2,system flowchart; system requirements; representations
+11a,3,Compare,5,5.1,linked list; array; dynamic; static; data structures
+11b,2,Sketch,5,5.1,linked list; single linked list
+11c(i),4,List,5,5.1,linked list; insertion; operation
+11c(ii),2,Explain,5,5.1,linked list; deletion; first node
+11d,1,State,5,5.1,binary search tree; search; suitable structure
+11e,3,Sketch,5,5.1,binary tree; sorted order
+12a(i),1,State,4,4.3,variables; parameters; swap
+12a(ii),2,Suggest,4,4.3,parameters; by reference; sub-programme
+12b,4,Construct,4,4.2,two-dimensional array; algorithm; pseudocode
+12c(i),1,State,4,4.2,array; data
+12c(ii),1,State,4,4.2,two-dimensional array; indexing
+12d,6,Construct,4,4.2,selection sort; algorithm; linear array

@@ -1,0 +1,38 @@
+question,marks,command_term,topic,subtopic,concepts
+1a,2,Outline,2,2.1,application software; word processor; templates; macros; 2.1.7
+1b,1,State,1,1.1,user documentation; technical documentation; 1.1.8
+2a,1,State,5,5.1,binary tree; inorder traversal; 5.1.16
+2b,1,State,5,5.1,binary tree; preorder traversal; 5.1.16
+3,3,Describe,6,6.1,paging; operating system; memory management; 6.1.7
+4,4,Compare,1,1.1,direct changeover; parallel running; installation processes; 1.1.5
+5,2,Outline,7,7.1,autonomous agents; 7.1.8
+6a,1,State,2,2.1,CPU; control unit; decode; machine instruction cycle; 2.1.1; 2.1.4
+6b,2,Outline,2,2.1,MAR; memory address register; registers; 2.1.1
+7,4,Describe,4,4.2,bubble sort; standard algorithms; linear arrays; 4.2.1
+8,4,Construct,2,2.1,truth table; Boolean logic; XOR; AND; NOT; 2.1.11; 2.1.12
+9a,3,Describe,3,3.1,router; network; hardware; 3.1.13
+9b,4,Outline,3,3.1,data transmission; speed; bandwidth; congestion; 3.1.8
+9c,4,Outline,3,3.1,network security; data protection; 3.1.15
+9d,4,Outline,4,4.2,algorithm; pseudocode; condition; iteration; 4.2.6
+10a,2,Identify,1,1.2,usability; website design; 1.2.12; 1.2.13
+10b,2,Outline,1,1.2,accessibility; visual design; 1.2.14
+10c(i),1,State,2,2.1,primary memory; RAM; 2.1.2
+10c(ii),4,Explain,6,6.1,operating system; memory; multi-user; resource management; 6.1.5
+10d,6,Explain,1,1.2,ethics; data sharing; privacy; social and ethical issues; 1.2.16
+11a,4,Describe,7,7.1,sensors; control system; input devices; 7.1.2; 7.1.3
+11b,3,Explain,7,7.1,output transducer; sensor; processor; 7.1.4
+11c(i),1,Identify,3,3.1,network security; authentication; access control; 3.1.15
+11c(ii),3,Describe,3,3.1,authentication; security method; 3.1.15
+11d,4,Compare,6,6.1,polling; interrupts; resource management; 6.1.7
+12a,2,Describe,5,5.1,stack; queue; characteristics; 5.1.6; 5.1.8
+12b(i),1,State,5,5.1,queue; enqueue; access methods; 5.1.9
+12b(ii),1,State,5,5.1,queue; dequeue; access methods; 5.1.9
+12b(iii),1,State,5,5.1,queue; isEmpty; access methods; 5.1.9
+12c,5,Construct,5,5.1,queue; stack; algorithm; 5.1.7; 5.1.9
+12d,3,Determine,5,5.1,recursion; trace; recursive algorithm; 5.1.3
+12e,2,Outline,5,5.1,recursion; recursive thinking; disadvantage; 5.1.1
+13a,3,Construct,5,5.1,two-dimensional array; algorithm; 5.1.5
+13b(i),1,State,4,4.2,rotation; modulo; algorithm; 4.2.8
+13b(ii),2,Outline,4,4.2,algorithm efficiency; modulo; 4.2.8
+13c,3,Construct,5,5.1,two-dimensional array; algorithm; 5.1.5
+13d,6,Construct,5,5.1,two-dimensional array; transpose; algorithm; 5.1.5

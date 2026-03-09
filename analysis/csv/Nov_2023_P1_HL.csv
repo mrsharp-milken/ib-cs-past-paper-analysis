@@ -1,0 +1,40 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,State,1,1.1,compatibility; business mergers; legacy systems
+2,1,Define,2,2.1,Boolean; NAND; logic operators
+3,3,Identify,2,2.1,control unit; CPU; functions
+4,3,State,3,3.1,data packet; protocol
+5,3,Sketch,5,5.1,binary tree; inorder traversal; sketch binary trees
+6,2,Outline,6,6.1,virtual machine; resource management
+7,2,Identify,1,1.2,usability; usability problems; voice recognition
+8a,2,Outline,4,4.1,concurrent processing; thinking concurrently
+8b,1,Identify,4,4.1,concurrent processing; advantages
+9a,4,Determine,5,5.1,recursion; trace recursive algorithm
+9b,2,Deduce,5,5.1,recursion; recursive thinking; purpose
+10a,2,Outline,3,3.1,network security; unauthorized access
+10b(i),1,Identify,1,1.1,data loss; causes of data loss
+10b(ii),2,Describe,1,1.1,prevent data loss; backup
+10c,3,Describe,2,2.1,application software; word processor; mail merge
+10d,4,Outline,3,3.1,VPN; remote access
+10e,3,Explain,3,3.1,data transmission; speed; mobile network
+11a(i),1,Identify,1,1.2,obtaining requirements; gathering information; stakeholders
+11a(ii),2,Outline,1,1.2,gathering information; advantages
+11b,2,Outline,1,1.2,prototypes; purpose; demonstrate to client
+11c,3,Explain,1,1.1,testing; implementation
+11d,3,Explain,1,1.2,ethical issues; images; new IT systems
+11e(i),3,Describe,3,3.1,compression; transmission; file transfer
+11e(ii),1,State,2,2.1,images; storage; application software
+12a(i),2,Identify,7,7.1,sensors; input devices; control systems
+12a(ii),2,Outline,7,7.1,sensors; microprocessor; control systems
+12b,2,Suggest,2,2.1,memory; persistent storage; primary memory
+12c(i),2,Outline,6,6.1,interrupt; resource management
+12c(ii),3,Explain,6,6.1,interrupt; microprocessor; handling
+12d(i),2,Outline,7,7.1,monitoring; cameras; embedded systems
+12d(ii),2,Outline,7,7.1,social impacts; ethical considerations; surveillance
+13a,2,Describe,5,5.1,linked list; structure; operate logically
+13b,3,Explain,5,5.1,queue; linked list; suitable structure
+13c,3,Describe,5,5.1,linked list; insertion; head
+13d,4,Describe,5,5.1,linked list; insertion; traversal
+13e,3,Compare,5,5.1,static; dynamic; data structures
+14a,1,State,5,5.1,two-dimensional array; indexing; characteristics
+14b,4,Construct,5,5.1,algorithm; two-dimensional array; counting
+14c,10,Construct,5,5.1,algorithm; two-dimensional array; pseudocode; averaging

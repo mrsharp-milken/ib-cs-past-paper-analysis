@@ -1,0 +1,41 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Identify,4,4.3,computer language; essential features
+2a,1,State,1,1.2,client; networked world
+2b,1,State,1,1.2,server; networked world
+3,1,Identify,1,1.2,accessibility; input
+4,3,Complete,2,2.1,truth table; NOR; Boolean operators
+5,3,Construct,2,2.1,logic diagram; Boolean expression
+6a,1,Determine,5,5.1,recursion; trace algorithm
+6b,3,Determine,5,5.1,recursion; trace algorithm
+6c,4,Construct,4,4.3,iteration; loops; algorithm
+7a,1,State,2,2.1,primary memory; machine instruction cycle
+7b,2,Outline,2,2.1,data bus; address bus; machine instruction cycle
+8,1,Define,2,2.1,bit
+9,2,Outline,1,1.1,beta testing; types of testing
+10a,2,Describe,2,2.1,application software; spellchecker
+10b,2,Outline,1,1.1,compatibility; installation; changeover
+10c,4,Compare,1,1.1,direct changeover; phased conversion; installation
+10d,1,Identify,1,1.1,testing
+10e,6,Construct,4,4.2,linear array; algorithm; standard algorithm
+11a,1,Identify,3,3.1,wireless network; hardware components
+11b,4,Outline,3,3.1,wireless networks; advantages; disadvantages
+11c,3,Identify,3,3.1,network security; unauthorized access
+11d,1,Define,3,3.1,protocol
+11e,6,Explain,3,3.1,packet switching; data transmission
+12a,2,Identify,7,7.1,input devices; control system; data collection
+12b,2,Outline,7,7.1,microprocessor; sensor; control system
+12c,2,Outline,7,7.1,sensor; processor; output transducer
+12d,4,Compare,7,7.1,centrally controlled; distributed system
+12e,2,Identify,2,2.1,operating system; functions
+12f,3,Suggest,6,6.1,interrupt; polling; resource management
+13a,2,Describe,5,5.1,dynamic data structure; features; characteristics
+13b,6,Explain,5,5.1,doubly linked list; sketch; insertion
+13c,4,Determine,5,5.1,stack; access methods; algorithm
+13d,3,Describe,5,5.1,stack; characteristics; applications
+14a,1,State,5,5.1,two-dimensional array; characteristics
+14b,1,State,5,5.1,two-dimensional array; sparse matrix
+14c,6,Construct,5,5.1,two-dimensional array; algorithm; compression
+14d,2,Outline,5,5.1,sparse matrix; compression; algorithm
+14e,1,State,5,5.1,sparse matrix; row-major; ROWC
+14f(i),1,State,5,5.1,sparse matrix; VALUES; index
+14f(ii),3,Determine,5,5.1,sparse matrix; index range; algorithm

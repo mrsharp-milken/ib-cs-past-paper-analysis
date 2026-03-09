@@ -1,0 +1,35 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Describe,1,1.1,offsite storage; data loss; prevent data loss
+2,3,Explain,2,2.1,cache memory
+3a,1,State,2,2.1,hexadecimal; representation
+3b,1,State,2,2.1,representation; colour; bits
+3c,1,State,2,2.1,representation; colour; pixel
+4,4,Construct,2,2.1,truth table; Boolean; XOR; NOR
+5,3,Sketch,5,5.1,doubly linked list; linked list
+6,3,Explain,4,4.1,abstraction; algorithms
+7,2,Outline,6,6.1,virtual memory; memory management
+8,5,Construct,4,4.2,trace table; algorithm; iteration
+9a,2,Identify,1,1.1,organizational issues; implementation
+9b,5,Evaluate,1,1.1,phased conversion; direct changeover; installation
+9c(i),1,State,1,1.1,testing; user acceptance
+9c(ii),3,Identify,1,1.1,testing; inadequate testing; consequences
+9d,4,Discuss,1,1.2,social issues; ethical issues; new IT systems
+10a,4,Outline,3,3.1,computer network; advantages
+10b(i),2,Describe,3,3.1,router; hardware
+10b(ii),2,Describe,3,3.1,NIC; network interface card
+10c,2,Outline,3,3.1,protocols
+10d,1,Define,3,3.1,data encryption; network security
+10e,4,Evaluate,3,3.1,MAC address; network security
+11a(i),1,Define,1,1.2,screen resolution; usability
+11a(ii),4,Describe,1,1.2,usability; devices; responsive design
+11b,4,Explain,2,2.1,operating system; hardware; resource management
+11c,6,Describe,7,7.1,sensor; processor; output transducer; control system
+12a,2,State,5,5.1,stack; applications
+12b,6,Explain,5,5.1,static stack; array; push; pop; isEmpty; isFull
+12c(i),1,State,5,5.1,binary tree; postorder traversal
+12c(ii),3,Sketch,5,5.1,binary tree; deletion; root
+12d,3,Compare,5,5.1,static; dynamic; data structures
+13a,1,State,5,5.1,two-dimensional array; indexing
+13b,8,Construct,5,5.1,algorithm; two-dimensional array; validation; diagonal
+13c,4,Determine,5,5.1,recursion; trace recursive algorithm
+13d,2,Deduce,5,5.1,recursion; recursive method

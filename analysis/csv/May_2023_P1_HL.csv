@@ -1,0 +1,38 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Outline,2,2.1,web browser; application software
+2,2,Identify,5,5.1,queues; applications
+3,2,Outline,2,2.1,Unicode; character representation; data representation
+4a,1,Define,6,6.1,interrupt
+4b,3,Describe,6,6.1,polling; sensors
+5,4,Construct,2,2.1,truth table; Boolean logic; NAND; NOR
+6,2,Outline,4,4.3,collection; characteristics and applications
+7,2,Distinguish,2,2.1,RAM; ROM; primary memory
+8a,1,Identify,5,5.1,binary tree; leaf nodes
+8b,1,State,5,5.1,binary tree; preorder traversal
+8c,3,Sketch,5,5.1,binary tree; deletion
+9,2,Outline,6,6.1,virtual memory; resource management
+10a,2,Identify,1,1.2,end users; stakeholders; design process
+10b,2,Outline,1,1.1,legacy system; compatibility
+10c,1,Identify,1,1.2,requirements; stakeholders
+10d,3,Explain,1,1.1,data migration
+10e,3,Explain,1,1.1,parallel running; direct changeover; installation
+10f(i),1,Identify,1,1.1,training; end users
+10f(ii),3,Evaluate,1,1.1,training; user documentation
+11a,2,State,3,3.1,VPN; technologies
+11b,2,Identify,3,3.1,data transmission; speed
+11c,3,Explain,3,3.1,data compression; transmission
+11d,2,Outline,3,3.1,encryption; network security
+11e,2,Describe,3,3.1,firewall; network security
+11f,4,Discuss,1,1.2,social impacts; ethical issues; networked world
+12a,5,Outline,7,7.1,sensor; processor; output transducer; control system
+12b,2,Describe,7,7.1,feedback; control system
+12c(i),2,Describe,2,2.1,operating system; main functions
+12c(ii),2,Outline,6,6.1,dedicated operating system
+12d,4,Compare and contrast,7,7.1,centralized; distributed; control system
+13a,4,Determine,5,5.1,recursion; trace recursive algorithm
+13b,4,Outline,5,5.1,recursion; disadvantages
+13c,2,Outline,5,5.1,stack; isEmpty; access methods
+13d,5,Construct,5,5.1,stack; queue; access methods; algorithm
+14a,3,Construct,5,5.1,two-dimensional array; algorithm
+14b,4,Construct,5,5.1,two-dimensional array; subprogram; algorithm
+14c,8,Construct,5,5.1,two-dimensional array; subprogram; algorithm

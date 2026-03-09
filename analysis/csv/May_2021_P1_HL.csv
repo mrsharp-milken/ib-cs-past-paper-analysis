@@ -1,0 +1,38 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Identify,1,1.2,computer roles; networked world
+2,2,Describe,1,1.1,implementation; installation processes
+3,2,Draw,2,2.1,logic circuit; truth table; logic gates
+4a,2,Identify,1,1.1,patches; releases and updates
+4b,2,Identify,1,1.1,patches; obtaining updates
+5,2,Calculate,2,2.1,hexadecimal; denary; number representation
+6,2,Identify,3,3.1,fibre optic; transmission media; wireless
+7,2,Distinguish,4,4.3,variable; constant
+8,3,List,4,4.2,algorithm; tracing; pseudocode
+9,1,Identify,6,6.1,dedicated operating system; device
+10,2,Identify,5,5.1,dynamic data structure; characteristics
+11,3,Sketch,5,5.1,binary tree; inorder traversal; balanced
+12a,4,Describe,3,3.1,wireless network; hardware components
+12b,2,Identify,3,3.1,wireless network; advantages
+12c,4,Outline,3,3.1,network security; wireless
+12d,2,Identify,3,3.1,VPN; technologies
+12e,3,Explain,3,3.1,VPN; remote access; evaluate
+13a,4,Construct,4,4.3,array; collection; pseudocode
+13b,5,Construct,4,4.2,bubble sort; linear array; pseudocode
+13c,4,Describe,4,4.2,binary search; linear array
+13d,2,Outline,4,4.3,subprograms; modularity; reuse
+14a(i),1,Identify,4,4.2,flowchart; logic error
+14a(ii),2,Outline,4,4.2,logic error; correction
+14b,1,State,4,4.2,validation; input restriction
+14c,8,Construct,4,4.2,pseudocode; flowchart; validation; average
+15a,4,Outline,6,6.1,resource management; scheduling; virtual memory; paging
+15b,2,Outline,6,6.1,operating system; hardware abstraction
+15c(i),2,Contrast,6,6.1,memory; laptop; file server; resources
+15c(ii),2,Contrast,6,6.1,processor; laptop; file server; resources
+15d,2,State,7,7.1,sensors; control system; lighting
+15e,4,Explain,7,7.1,sensor; processor; output transducer; control
+15f,2,Outline,7,7.1,feedback; timing; occupancy
+16a,2,Outline,5,5.1,queue; characteristics; applications; FIFO
+16b,3,Draw,5,5.1,queue; linked list; sketch
+16c,3,Explain,5,5.1,stack; queue; FIFO; LIFO; applications
+16d,3,Complete,5,5.1,stack; trace table; factorial
+16e,4,Explain,5,5.1,stack; recursion; recursive function

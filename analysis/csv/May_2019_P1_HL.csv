@@ -1,0 +1,40 @@
+question,marks,command_term,topic,subtopic,concepts
+1,1,Define,1,1.2,peripheral; hardware; software
+2,2,Identify,1,1.2,GUI; usability; digital devices
+3,2,Outline,2,2.1,MAR; CPU; registers
+4,2,Outline,6,6.1,single processor; resource limitations; 3D graphics
+5a,2,Outline,6,6.1,virtual memory; advantage
+5b,2,Outline,6,6.1,virtual memory; disadvantage
+6,1,State,2,2.1,hexadecimal; binary; number systems
+7,3,Construct,2,2.1,truth table; logic gates; Boolean
+8,2,Outline,1,1.2,stakeholders; requirements; information gathering
+9,2,Identify,3,3.1,PAN; network types
+10,2,Outline,3,3.1,protocols; data transmission
+11,2,State,5,5.1,binary tree; postorder traversal
+12,2,Outline,5,5.1,binary tree; suitable structure; address book
+13a,4,Describe,1,1.1,data loss; causes
+13b,4,Outline,1,1.1,backup; prevent data loss
+13c,3,Explain,1,1.1,beta testing; types of testing
+13d,2,Outline,1,1.2,end-user; design process; consequences
+13e,2,Identify,1,1.2,accessibility
+14a,2,Identify,2,2.1,RAM; primary memory
+14b,1,State,2,2.1,persistent storage
+14c,2,Identify,2,2.1,application software
+14d(i),2,Outline,3,3.1,wireless networks; advantages
+14d(ii),2,Outline,3,3.1,wireless networks; disadvantages
+14e,2,Describe,3,3.1,network security
+14f,4,Explain,3,3.1,data transmission; speed; wireless
+15a,5,Complete,4,4.2,selection sort; linear array; tracing
+15b(i),3,Construct,4,4.2,flowchart; pseudocode; algorithm
+15b(ii),1,State,4,4.2,bubble sort; standard algorithm
+15c,2,Construct,4,4.2,array; algorithm; output
+15d,3,Explain,5,5.1,dynamic data structure; static data structure
+15e,1,Identify,5,5.1,data structure; suitable for situation
+16a,2,Identify,2,2.1,operating system; functions
+16b,3,Explain,6,6.1,dedicated operating system
+16c,5,Explain,7,7.1,sensors; microprocessors; control system; temperature
+16d,3,Contrast,7,7.1,distributed; centralized; control system
+17a,5,Construct,5,5.1,two-dimensional array; algorithm; search
+17b,5,Construct,5,5.1,two-dimensional array; algorithm
+17c,5,Explain,5,5.1,singly linked list; insertion
+17d,2,Outline,5,5.1,circular linked list; linear linked list

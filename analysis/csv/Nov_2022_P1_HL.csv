@@ -1,0 +1,36 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Outline,4,4.3,translation; higher level language; machine executable code
+2a,2,Outline,1,1.2,prototyping; purpose; demonstrate proposed system
+2b,2,Outline,1,1.2,prototyping; limitations; when not appropriate
+3,2,Define,2,2.1,Boolean operator; XOR
+4a,2,Outline,1,1.2,social and ethical issues; consent; privacy
+4b,2,Outline,3,3.1,transmission; compatibility; codec; bandwidth
+5a,1,State,2,2.1,binary representation; colour; pixel; RGB
+5b,1,State,2,2.1,colour depth; bits per pixel
+6,1,Define,4,4.3,variable
+7,3,Explain,2,2.1,cache memory; CPU; performance
+8a,1,Define,5,5.1,queue; data structure
+8b,2,Identify,5,5.1,queue; print queue; job queue
+9,4,Determine,5,5.1,recursive thinking; trace recursive algorithm; array
+10a,1,Identify,3,3.1,wireless network; hardware component
+10b,4,Distinguish,3,3.1,wired network; wireless network; reliability; transmission
+10c,2,Outline,3,3.1,wireless network; security
+10d,4,Outline,3,3.1,VPN; secure
+10e,4,Explain,3,3.1,packet switching
+11a(i),1,Define,1,1.1,data migration
+11a(ii),4,Outline,1,1.1,data migration; problems; compatibility
+11b,4,Outline,1,1.1,change management
+11c,3,Explain,1,1.1,legacy systems; compatibility
+11d,3,Explain,1,1.1,parallel running; installation process
+12a,4,Outline,7,7.1,control system; smart building
+12b,4,Explain,7,7.1,sensor; processor; output transducer
+12c(i),2,Identify,2,2.1,operating system; main functions
+12c(ii),2,Suggest,6,6.1,interrupt; polling; resource management
+12d,3,Explain,7,7.1,control system; benefits
+13a(i),5,Describe,4,4.2,bubble sort; standard algorithm; linear array
+13a(ii),1,Identify,4,4.2,sorting algorithm
+13b,3,Identify,5,5.1,binary tree; node; parent; left-child; right-child; subtree; root; leaf
+13c,6,Describe,5,5.1,binary tree; insertion; traversal
+14a,2,Construct,2,2.1,logic expression; Boolean; modulo; proper divisor
+14b,3,Construct,4,4.3,subprogram; algorithm; pseudocode; divisors
+14c,10,Construct,4,4.3,algorithm; one-dimensional array; two-dimensional array; subprogram

@@ -1,0 +1,38 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,State,2,2.1,spreadsheets; features; application software
+2,2,Outline,1,1.1,beta testing; testing; types of testing
+3,2,Describe,1,1.2,end users; system replacement; change management
+4,2,Outline,1,1.2,system flow chart; system requirements; representation
+5,3,Describe,3,3.1,firewall; network security; access control
+6,2,State,4,4.3,subprograms; modularity; code reuse
+7,4,Determine,5,5.1,recursion; trace; recursive algorithm
+8,2,Outline,7,7.1,robots; automation; control systems
+9a,1,State,5,5.1,binary tree; postorder traversal; tree traversal
+9b,1,State,5,5.1,binary tree; inorder traversal; tree traversal
+10,4,Outline,5,5.1,queue; enqueue; dequeue; data structure operations
+11a,1,State,1,1.1,data security; theft; data protection
+11b,2,Outline,2,2.1,operating system; memory management; program execution
+11c,4,Justify,3,3.1,wired network; wireless network; advantages; disadvantages
+11d,2,Describe,3,3.1,data packet; structure; header; payload
+11e,6,Outline,3,3.1,protocols; network communication; standards
+12a(i),1,State,2,2.1,Boolean operators; AND; OR; logic
+12a(ii),1,State,4,4.3,constants; variables; expression
+12a(iii),2,Determine,2,2.1,Boolean expression; evaluation; operator precedence
+12b,4,Construct,2,2.1,truth table; Boolean logic; AND; OR; alarm system
+12c(i),1,Identify,2,2.1,CPU; registers; memory data register; MDR
+12c(ii),1,Identify,2,2.1,CPU; control unit; decoding; fetch-decode-execute
+12c(iii),1,State,2,2.1,CPU; ALU; arithmetic logic unit; calculations
+12c(iv),4,Explain,2,2.1,buses; data bus; address bus; control bus; machine instruction cycle
+13a,2,Describe,5,5.1,stack; interrupt; app state; push; pop
+13b,2,Describe,2,2.1,application software; health app; features
+13c,2,Outline,2,2.1,screen resolution; image quality; pixels; binary representation
+13d(i),4,Explain,3,3.1,GPS; global positioning system; satellite; location
+13d(ii),2,Outline,1,1.2,privacy; location sharing; ethical concerns
+13e,3,Explain,6,6.1,dedicated OS; generic OS; resource management; mobile
+14a,4,Outline,5,5.1,linked list; static array; dynamic data structures; advantages
+14b,5,Explain,5,5.1,linked list; searching; traversal; pointer
+14c(i),4,Describe,5,5.1,double linked list; structure; next pointer; previous pointer
+14c(ii),2,State,5,5.1,double linked list; applications; computing
+15a,4,Construct,5,5.1,algorithm; pseudocode; two-dimensional array; counting
+15b,5,Construct,5,5.1,algorithm; pseudocode; COUNT array; output; missing numbers
+15c,6,Construct,5,5.1,algorithm; pseudocode; mode; COUNT array; maximum

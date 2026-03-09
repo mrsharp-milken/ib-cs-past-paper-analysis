@@ -1,0 +1,44 @@
+question,marks,command_term,topic,subtopic,concepts
+1a,1,Define,1,1.2,usability
+1b,2,Identify,1,1.2,accessibility; methods
+2,4,Explain,3,3.1,VPN; secure connection; remote access
+3,3,Construct,2,2.1,truth table; Boolean; NOR
+4a,1,Define,3,3.1,server; network roles
+4b,1,Identify,3,3.1,clients; network
+4c(i),1,Identify,3,3.1,network security; external threat
+4c(ii),1,State,3,3.1,network security; protection
+5a,2,Explain,4,4.2,algorithm; subprogram; logic error
+5b,3,Outline,4,4.2,algorithm; loop; digit extraction
+6a,2,Draw,5,5.1,stack; array; static stack
+6b,4,Explain,5,5.1,stack; queue; reversal
+7a(i),2,Identify,1,1.2,stakeholders; users
+7a(ii),3,Explain,1,1.2,system development; end-user; design process
+7b,2,Describe,1,1.2,prototype; iteration
+7c,4,Outline,1,1.1,data migration; legacy system
+7d(i),2,Explain,4,4.1,concurrent processing; multi-user
+7d(ii),2,Explain,1,1.1,data loss prevention; concurrent access
+8a,1,Calculate,2,2.1,primary memory; bits; word
+8b,1,Calculate,2,2.1,address; primary memory
+8c(i),2,Outline,2,2.1,MAR; memory address register
+8c(ii),2,Outline,2,2.1,MDR; memory data register
+8d(i),2,Identify,2,2.1,operating system; functions
+8d(ii),1,State,2,2.1,persistent storage; secondary memory
+8e(i),4,Construct,2,2.1,CPU; ALU; control unit; machine instruction cycle
+8e(ii),1,Identify,2,2.1,control unit; decode
+8e(iii),1,Identify,2,2.1,ALU; execute
+9a(i),1,Identify,7,7.1,sensor; control system
+9a(ii),1,Identify,7,7.1,output transducer; control system
+9a(iii),3,Outline,7,7.1,sensor; processor; output transducer; sequence
+9b(i),2,Define,6,6.1,interrupt
+9b(ii),2,Describe,6,6.1,interrupt; control system
+9c,6,Discuss,7,7.1,control systems; social impacts; automation
+10a,3,Draw,5,5.1,binary tree; BST; scores
+10b,3,Draw,5,5.1,linked list; singly linked; descending
+10c(i),2,Compare,5,5.1,search; binary tree; linked list
+10c(ii),2,Compare,5,5.1,static; dynamic; storage
+10d,5,Determine,5,5.1,recursion; trace recursive algorithm
+11a,3,Construct,4,4.2,array; algorithm; total population
+11b(i),1,State,4,4.2,two-dimensional array; migration; percentage
+11b(ii),1,Determine,4,4.2,calculation; migration
+11b(iii),3,Describe,4,4.2,algorithm; population change
+11c,7,Construct,4,4.2,pseudocode; iteration; population prediction

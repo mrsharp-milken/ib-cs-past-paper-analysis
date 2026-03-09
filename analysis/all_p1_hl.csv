@@ -1,0 +1,771 @@
+session,paper,question,marks,command_term,topic,subtopic,concepts
+May 2014,P1 HL,1,2,Identify,1,1.1,planning; feasibility; computing system
+May 2014,P1 HL,10,4,Outline,7,7.1,autonomous agents; software
+May 2014,P1 HL,11a,2,Identify,1,1.1,stakeholders; users; integrated technology
+May 2014,P1 HL,11b,4,Discuss,1,1.1,benefits; smart home; advertisement
+May 2014,P1 HL,11c,6,Evaluate,1,1.3,user interface; access methods; home system
+May 2014,P1 HL,11d,3,Describe,7,7.1,decentralized control; embedded systems
+May 2014,P1 HL,12a,3,Describe,3,3.1,SaaS; cloud computing
+May 2014,P1 HL,12b,6,Discuss,3,3.1,SaaS; security; limitations
+May 2014,P1 HL,12c,2,Define,3,3.1,extranet; networks
+May 2014,P1 HL,12d,4,Distinguish,3,3.1,VPN; extranet
+May 2014,P1 HL,13a,1,State,4,4.1,array; indexing
+May 2014,P1 HL,13b,2,Outline,4,4.2,data representation; string; fixed-length
+May 2014,P1 HL,13c,6,Construct,4,4.3,algorithm; array; pseudocode; range
+May 2014,P1 HL,13d,6,Construct,5,5.1,queue; algorithm; Radio; Stats; cyclic
+May 2014,P1 HL,14a,3,Construct,4,4.3,flowchart; pseudocode; stack
+May 2014,P1 HL,14b,2,Construct,5,5.1,stack; drawH; recursion pattern
+May 2014,P1 HL,14c,6,Construct,4,4.3,algorithm; iteration; stack; generations
+May 2014,P1 HL,14d,1,State,4,4.3,endpoints; counting; recursion
+May 2014,P1 HL,14e,3,Suggest,4,4.3,recursion; drawing pattern
+May 2014,P1 HL,15a,1,State,5,5.1,zones; journey; binary tree
+May 2014,P1 HL,15b,3,Sketch,5,5.1,binary tree; TRAIN_DATA
+May 2014,P1 HL,15c,1,State,4,4.1,array; STATIONS; indexing
+May 2014,P1 HL,15d,1,Calculate,4,4.1,2D array; FARES; lookup
+May 2014,P1 HL,15e,9,Construct,4,4.3,algorithm; binary tree; 2D array; fares
+May 2014,P1 HL,2,2,Explain,1,1.2,beta testing; testing
+May 2014,P1 HL,3,4,Describe,1,1.2,data gathering; observations; system design
+May 2014,P1 HL,4,2,Outline,1,1.3,usability; human interaction; mobile devices
+May 2014,P1 HL,5,2,Distinguish,2,2.1,RAM; ROM; primary memory
+May 2014,P1 HL,6,3,Explain,5,5.1,linked list; insertion; alphabetical order
+May 2014,P1 HL,7,2,Outline,2,2.1,data representation; colour; RGB
+May 2014,P1 HL,8,2,Identify,3,3.1,P2P; peer-to-peer; networks
+May 2014,P1 HL,9,2,Outline,6,6.1,paging; memory management; operating system
+Nov 2014,P1 HL,10a,5,Draw,1,1.2,system requirements; flow chart
+Nov 2014,P1 HL,10b,2,Describe,1,1.2,data processing; system design
+Nov 2014,P1 HL,10c,3,Identify,1,1.1,causes of data loss
+Nov 2014,P1 HL,10d,3,Describe,1,1.1,consequences of data loss
+Nov 2014,P1 HL,10e,2,Identify,1,1.1,prevent data loss
+Nov 2014,P1 HL,11a,2,Construct,5,5.1,two-dimensional array; algorithm
+Nov 2014,P1 HL,11b,8,Construct,5,5.1,two-dimensional array; algorithm; magic square
+Nov 2014,P1 HL,11c,5,Complete,5,5.1,algorithm; magic square
+Nov 2014,P1 HL,12a,2,State,1,1.2,problem definition; requirements
+Nov 2014,P1 HL,12b,1,Identify,4,4.2,flow chart; pseudocode; algorithm representation
+Nov 2014,P1 HL,12c,3,Discuss,1,1.1,testing; beta testing
+Nov 2014,P1 HL,12d,3,Outline,4,4.3,programming language; criteria
+Nov 2014,P1 HL,12e(i),1,Identify,4,4.1,concurrent; project management
+Nov 2014,P1 HL,12e(ii),1,Identify,4,4.1,sequential; order of activities
+Nov 2014,P1 HL,12f,4,Explain,1,1.2,Gantt chart; project planning
+Nov 2014,P1 HL,13a,2,Suggest,7,7.1,sensors; control systems
+Nov 2014,P1 HL,13b,2,Outline,7,7.1,output transducer; control system
+Nov 2014,P1 HL,13c(i),1,Suggest,3,3.1,transmission media; wired
+Nov 2014,P1 HL,13c(ii),1,Suggest,3,3.1,transmission media; wireless
+Nov 2014,P1 HL,13d,1,State,3,3.1,network security
+Nov 2014,P1 HL,13e,2,Outline,3,3.1,GPS; data transmission
+Nov 2014,P1 HL,13f,6,Discuss,7,7.1,ethical implications; embedded systems; GPS
+Nov 2014,P1 HL,14a(i),3,Describe,5,5.1,linked list; dynamic
+Nov 2014,P1 HL,14a(ii),3,Explain,5,5.1,linked list; search
+Nov 2014,P1 HL,14b(i),1,State,5,5.1,binary tree; postorder traversal
+Nov 2014,P1 HL,14b(ii),1,Identify,5,5.1,binary tree; inorder traversal
+Nov 2014,P1 HL,14c,4,Describe,5,5.1,binary tree; deletion
+Nov 2014,P1 HL,14d,3,Compare,5,5.1,binary tree; linked list; efficiency
+Nov 2014,P1 HL,1a,2,Outline,2,2.1,application software; spreadsheets
+Nov 2014,P1 HL,1b,1,Define,2,2.1,operating system
+Nov 2014,P1 HL,2,1,Outline,2,2.1,ALU; CPU
+Nov 2014,P1 HL,3,2,Outline,2,2.1,binary; hexadecimal
+Nov 2014,P1 HL,4a,2,Describe,5,5.1,stack; characteristics
+Nov 2014,P1 HL,4b,2,Identify,5,5.1,stack; applications
+Nov 2014,P1 HL,5,4,Construct,2,2.1,truth table; Boolean expression
+Nov 2014,P1 HL,6,3,State,4,4.3,subprograms
+Nov 2014,P1 HL,7,3,Trace,4,4.2,algorithm; flow chart; tracing
+Nov 2014,P1 HL,8,2,Define,6,6.1,polling
+Nov 2014,P1 HL,9a,1,Define,3,3.1,protocol
+Nov 2014,P1 HL,9b,2,Outline,3,3.1,protocols; necessity
+May 2015,P1 HL,1,2,Describe,1,1.1,software updates; release management; user notification
+May 2015,P1 HL,10a,3,Outline,3,3.1,OSI model; network layers; communication
+May 2015,P1 HL,10b,3,Outline,3,3.1,protocol; network communication; standards
+May 2015,P1 HL,10c,2,Identify,4,4.1,inputs; data; system requirements; appointment
+May 2015,P1 HL,10d,3,Describe,5,5.1,data structure; two-dimensional array; records; appointments
+May 2015,P1 HL,10e,5,Outline,4,4.2,procedure; algorithm; data structure; appointment scheduling
+May 2015,P1 HL,11a,3,Describe,5,5.1,linked list; nodes; pointers; features
+May 2015,P1 HL,11b,3,Construct,4,4.2,algorithm; time conversion; mod; div; 24-hour format
+May 2015,P1 HL,11c,4,Explain,5,5.1,linked list; node removal; pointers; diagram
+May 2015,P1 HL,11d,5,Compare,5,5.1,linked list; queue; FIFO; dynamic data structure; comparison
+May 2015,P1 HL,12a,4,Outline,7,7.1,sensors; microprocessor; control system; traffic lights
+May 2015,P1 HL,12b,3,Suggest,7,7.1,feedback; sensors; control system; traffic lights; state reset
+May 2015,P1 HL,12c,5,Discuss,7,7.1,centralized control; distributed systems; advantages; disadvantages
+May 2015,P1 HL,12d,3,Discuss,7,7.1,social implications; monitoring; surveillance; privacy; embedded systems
+May 2015,P1 HL,13a,2,Explain,5,5.1,stack; LIFO; suitability; data structure
+May 2015,P1 HL,13b,5,Construct,5,5.1,stack; pop; push; algorithm; maze navigation
+May 2015,P1 HL,13c,1,State,4,4.2,algorithm trace; coordinates; movement
+May 2015,P1 HL,13d,6,Trace,5,5.1,recursive algorithm; trace table; coordinate system; recursion
+May 2015,P1 HL,2,4,Construct,2,2.1,Boolean expression; truth table; AND; OR; NOT
+May 2015,P1 HL,3,3,Outline,3,3.1,VPN; virtual private network; network security
+May 2015,P1 HL,4,4,Trace,4,4.2,trace table; algorithm; mod; div; loop; conditional
+May 2015,P1 HL,5,3,Apply,4,4.2,selection sort; sorting algorithm; linear array
+May 2015,P1 HL,6,3,Describe,7,7.1,GPS; satellite; trilateration; positioning; sensor
+May 2015,P1 HL,7,3,Describe,6,6.1,operating system; abstraction; network; complexity hiding
+May 2015,P1 HL,8a,1,State,5,5.1,binary tree; postorder traversal; tree traversal
+May 2015,P1 HL,8b,2,Sketch,5,5.1,binary tree; node deletion; postorder traversal
+May 2015,P1 HL,9a,6,Construct,4,4.2,algorithm; pseudocode; conditional logic; date comparison; database
+May 2015,P1 HL,9b,4,Explain,2,2.1,mail merge; database; word processor; application software
+May 2015,P1 HL,9c,2,Outline,1,1.1,data loss; consequences; customers; business
+May 2015,P1 HL,9d,3,Describe,1,1.1,data loss prevention; backup; data security
+Nov 2015,P1 HL,10a,3,Draw,5,5.1,binary tree; BST; scores
+Nov 2015,P1 HL,10b,3,Draw,5,5.1,linked list; singly linked; descending
+Nov 2015,P1 HL,10c(i),2,Compare,5,5.1,search; binary tree; linked list
+Nov 2015,P1 HL,10c(ii),2,Compare,5,5.1,static; dynamic; storage
+Nov 2015,P1 HL,10d,5,Determine,5,5.1,recursion; trace recursive algorithm
+Nov 2015,P1 HL,11a,3,Construct,4,4.2,array; algorithm; total population
+Nov 2015,P1 HL,11b(i),1,State,4,4.2,two-dimensional array; migration; percentage
+Nov 2015,P1 HL,11b(ii),1,Determine,4,4.2,calculation; migration
+Nov 2015,P1 HL,11b(iii),3,Describe,4,4.2,algorithm; population change
+Nov 2015,P1 HL,11c,7,Construct,4,4.2,pseudocode; iteration; population prediction
+Nov 2015,P1 HL,1a,1,Define,1,1.2,usability
+Nov 2015,P1 HL,1b,2,Identify,1,1.2,accessibility; methods
+Nov 2015,P1 HL,2,4,Explain,3,3.1,VPN; secure connection; remote access
+Nov 2015,P1 HL,3,3,Construct,2,2.1,truth table; Boolean; NOR
+Nov 2015,P1 HL,4a,1,Define,3,3.1,server; network roles
+Nov 2015,P1 HL,4b,1,Identify,3,3.1,clients; network
+Nov 2015,P1 HL,4c(i),1,Identify,3,3.1,network security; external threat
+Nov 2015,P1 HL,4c(ii),1,State,3,3.1,network security; protection
+Nov 2015,P1 HL,5a,2,Explain,4,4.2,algorithm; subprogram; logic error
+Nov 2015,P1 HL,5b,3,Outline,4,4.2,algorithm; loop; digit extraction
+Nov 2015,P1 HL,6a,2,Draw,5,5.1,stack; array; static stack
+Nov 2015,P1 HL,6b,4,Explain,5,5.1,stack; queue; reversal
+Nov 2015,P1 HL,7a(i),2,Identify,1,1.2,stakeholders; users
+Nov 2015,P1 HL,7a(ii),3,Explain,1,1.2,system development; end-user; design process
+Nov 2015,P1 HL,7b,2,Describe,1,1.2,prototype; iteration
+Nov 2015,P1 HL,7c,4,Outline,1,1.1,data migration; legacy system
+Nov 2015,P1 HL,7d(i),2,Explain,4,4.1,concurrent processing; multi-user
+Nov 2015,P1 HL,7d(ii),2,Explain,1,1.1,data loss prevention; concurrent access
+Nov 2015,P1 HL,8a,1,Calculate,2,2.1,primary memory; bits; word
+Nov 2015,P1 HL,8b,1,Calculate,2,2.1,address; primary memory
+Nov 2015,P1 HL,8c(i),2,Outline,2,2.1,MAR; memory address register
+Nov 2015,P1 HL,8c(ii),2,Outline,2,2.1,MDR; memory data register
+Nov 2015,P1 HL,8d(i),2,Identify,2,2.1,operating system; functions
+Nov 2015,P1 HL,8d(ii),1,State,2,2.1,persistent storage; secondary memory
+Nov 2015,P1 HL,8e(i),4,Construct,2,2.1,CPU; ALU; control unit; machine instruction cycle
+Nov 2015,P1 HL,8e(ii),1,Identify,2,2.1,control unit; decode
+Nov 2015,P1 HL,8e(iii),1,Identify,2,2.1,ALU; execute
+Nov 2015,P1 HL,9a(i),1,Identify,7,7.1,sensor; control system
+Nov 2015,P1 HL,9a(ii),1,Identify,7,7.1,output transducer; control system
+Nov 2015,P1 HL,9a(iii),3,Outline,7,7.1,sensor; processor; output transducer; sequence
+Nov 2015,P1 HL,9b(i),2,Define,6,6.1,interrupt
+Nov 2015,P1 HL,9b(ii),2,Describe,6,6.1,interrupt; control system
+Nov 2015,P1 HL,9c,6,Discuss,7,7.1,control systems; social impacts; automation
+May 2016,P1 HL,1,2,Outline,1,1.1,legacy systems; maintenance; compatibility issues
+May 2016,P1 HL,10,3,Discuss,1,1.2,CCTV; ethics; privacy; workplace monitoring; social implications
+May 2016,P1 HL,11a,2,Identify,1,1.1,data planning; system requirements; data volume; data security
+May 2016,P1 HL,11b,3,Describe,1,1.2,direct observation; requirements gathering; information gathering techniques
+May 2016,P1 HL,11c,3,Describe,1,1.2,prototype; client demonstration; system design iteration
+May 2016,P1 HL,11d,4,Discuss,1,1.1,data migration; data integrity; compatibility; data loss
+May 2016,P1 HL,11e,3,Outline,1,1.1,parallel running; economic cost; implementation strategy
+May 2016,P1 HL,12a,4,Distinguish,3,3.1,Ethernet; wireless; transmission reliability; network media characteristics
+May 2016,P1 HL,12b,4,Describe,3,3.1,VPN; encryption; authentication; network security
+May 2016,P1 HL,12c,1,State,3,3.1,VPN; tunneling protocol; encryption technology
+May 2016,P1 HL,12d,6,Discuss,3,3.1,cloud storage; external services; advantages; disadvantages; privacy; security
+May 2016,P1 HL,13a,2,Describe,5,5.1,linked list; dynamic data structure; insertion; deletion
+May 2016,P1 HL,13b(i),1,Identify,4,4.1,concurrent processing; parallel processes
+May 2016,P1 HL,13b(ii),1,Identify,4,4.1,concurrent processing; sequential processes; mutual exclusion
+May 2016,P1 HL,13c,1,State,4,4.1,pre-condition; ticket validation; condition checking
+May 2016,P1 HL,13d,3,Explain,4,4.1,algorithm order; sequential operations; concurrent barriers; system design
+May 2016,P1 HL,13e,2,Outline,5,5.1,linked list; efficiency; memory usage; data structure design
+May 2016,P1 HL,13f,5,Construct,4,4.2,algorithm; 2D array; pseudocode; conditional logic; fee calculation
+May 2016,P1 HL,14a,1,State,5,5.1,2D array; array access; data retrieval
+May 2016,P1 HL,14b,4,Suggest,7,7.1,GPS; sensor input; zone calculation; map display; embedded systems
+May 2016,P1 HL,14c,5,Construct,4,4.2,algorithm; collection; searching; maximum value; pseudocode
+May 2016,P1 HL,14d,3,Explain,5,5.1,binary tree; tree traversal; inorder traversal; sorting; ordered output
+May 2016,P1 HL,14e,2,Describe,1,1.2,social networking; feedback; business impact; ethical implications
+May 2016,P1 HL,15a,1,State,5,5.1,Fibonacci sequence; recursive thinking
+May 2016,P1 HL,15b,3,Trace,5,5.1,recursion; trace; Fibonacci; recursive algorithm levels
+May 2016,P1 HL,15c,6,Construct,5,5.1,Fibonacci; iterative algorithm; pseudocode; non-recursive solution
+May 2016,P1 HL,15d,3,Construct,5,5.1,Fibonacci; algorithm; loop; recursive function call
+May 2016,P1 HL,15e,2,Describe,5,5.1,stack; recursion; call stack; function calls; stack frames
+May 2016,P1 HL,2,2,Outline,1,1.1,failover; system reliability; data loss prevention
+May 2016,P1 HL,3,2,Describe,2,2.1,control unit; CPU architecture; fetch-decode-execute cycle
+May 2016,P1 HL,4,3,Construct,2,2.1,truth table; XOR; OR; Boolean logic; logic gates
+May 2016,P1 HL,5,2,State,2,2.1,hexadecimal; binary; number representation; 8-bit register
+May 2016,P1 HL,6,1,State,4,4.2,bubble sort; sorting algorithm; iteration; linear array
+May 2016,P1 HL,7,3,Outline,4,4.1,virtual machine; abstraction; platform independence; software testing
+May 2016,P1 HL,8,3,Explain,3,3.1,VoIP; network resources; collaborative working; data transmission
+May 2016,P1 HL,9,4,Explain,6,6.1,operating system; multitasking; scheduling; resource management
+Nov 2016,P1 HL,1,3,State,1,1.2,usability; digital devices; cell phones
+Nov 2016,P1 HL,10a,1,Define,2,2.1,analog data; data representation
+Nov 2016,P1 HL,10b,5,Explain,7,7.1,sensor; processor; output transducer; control
+Nov 2016,P1 HL,10c,4,Outline,6,6.1,operating system; resource management
+Nov 2016,P1 HL,10d,3,Describe,6,6.1,polling; interrupt; resource management
+Nov 2016,P1 HL,10e,2,Compare,7,7.1,centrally controlled; distributed system
+Nov 2016,P1 HL,11a,1,State,5,5.1,circular linked list
+Nov 2016,P1 HL,11b,3,Sketch,5,5.1,circular linked list; insert; diagram
+Nov 2016,P1 HL,11c,4,Describe,5,5.1,linked list; traverse; count
+Nov 2016,P1 HL,11d,4,Explain,5,5.1,stack; linked list; reverse order
+Nov 2016,P1 HL,11e,3,Compare,5,5.1,static; dynamic data structures
+Nov 2016,P1 HL,12a,3,Trace,5,5.1,two-dimensional array; algorithm; trace
+Nov 2016,P1 HL,12b(i),1,State,5,5.1,two-dimensional array; spiral; bounds
+Nov 2016,P1 HL,12b(ii),1,State,5,5.1,spiral algorithm; boundary; consequence
+Nov 2016,P1 HL,12b(iii),1,State,5,5.1,two-dimensional array; indices; BOTTOM row
+Nov 2016,P1 HL,12c,9,Construct,5,5.1,pseudocode; two-dimensional array; spiral algorithm
+Nov 2016,P1 HL,2a,1,State,2,2.1,cache memory
+Nov 2016,P1 HL,2b,1,Construct,2,2.1,primary memory; RAM; processor; cache
+Nov 2016,P1 HL,3,4,Outline,3,3.1,wireless networks; advantages; disadvantages
+Nov 2016,P1 HL,4,4,Construct,2,2.1,truth table; Boolean operators; XOR; AND
+Nov 2016,P1 HL,5,4,Outline,1,1.2,ethics; internet; intellectual property; data use
+Nov 2016,P1 HL,6a,1,Determine,5,5.1,recursion; trace algorithm; multiplication count
+Nov 2016,P1 HL,6b,3,Determine,5,5.1,recursion; trace; exponentiation
+Nov 2016,P1 HL,6c,1,State,5,5.1,recursive thinking; purpose; exponentiation
+Nov 2016,P1 HL,7a,1,Identify,5,5.1,binary tree; leaf
+Nov 2016,P1 HL,7b(i),1,State,5,5.1,binary tree; inorder traversal
+Nov 2016,P1 HL,7b(ii),1,State,5,5.1,binary tree; postorder traversal
+Nov 2016,P1 HL,8a,5,Construct,1,1.2,system requirements; flow chart; representation
+Nov 2016,P1 HL,8b,2,Outline,1,1.2,peripheral; point of sale
+Nov 2016,P1 HL,8c,2,Outline,3,3.1,protocol; data transfer; necessity
+Nov 2016,P1 HL,8d(i),2,Identify,1,1.1,personal data; risk; data loss
+Nov 2016,P1 HL,8d(ii),2,State,1,1.1,prevent data loss; measures
+Nov 2016,P1 HL,8d(iii),2,Outline,1,1.1,data loss; consequences
+Nov 2016,P1 HL,9a,2,Identify,4,4.3,essential features; grammar; syntax; programming language
+Nov 2016,P1 HL,9b,2,Identify,4,4.3,user interface; application programmers
+Nov 2016,P1 HL,9c,1,State,1,1.1,user documentation; methods
+Nov 2016,P1 HL,9d(i),2,Outline,4,4.3,translation; interpreter; compiler; machine code
+Nov 2016,P1 HL,9d(ii),2,Describe,4,4.3,interpreter; compiler; advantage
+Nov 2016,P1 HL,9e,4,Construct,4,4.3,pseudocode; subprogram; algorithm; loops
+Nov 2016,P1 HL,9f,2,Outline,4,4.3,sub-programmes; collections; need
+May 2017,P1 HL,1,2,Describe,1,1.1,beta testing; user acceptance testing; testing strategies
+May 2017,P1 HL,10,2,Outline,5,5.1,recursion; call stack; stack frames; memory usage
+May 2017,P1 HL,11,2,Identify,7,7.1,autonomous agents; distributed systems; self-directed behaviour
+May 2017,P1 HL,12a(i),1,Define,1,1.1,data migration; definition
+May 2017,P1 HL,12a(ii),4,Describe,1,1.1,data migration; data integrity; compatibility; format conversion; data loss
+May 2017,P1 HL,12b,4,Describe,1,1.1,change management; business takeover; training; staff resistance; system implementation
+May 2017,P1 HL,12c(i),3,Construct,2,2.1,truth table; AND gate; NAND gate; OR gate; logic diagram
+May 2017,P1 HL,12c(ii),1,Identify,2,2.1,logic gate; equivalence; Boolean logic
+May 2017,P1 HL,12d,2,Outline,2,2.1,truth table; equivalence testing; logic diagram verification
+May 2017,P1 HL,13a,3,Trace,4,4.2,algorithm trace; pseudocode; collections; iteration; conditionals; mod operator
+May 2017,P1 HL,13b,4,Outline,4,4.2,binary search; sorted array; algorithm; divide and conquer; low; high; mid
+May 2017,P1 HL,13c,5,Construct,4,4.2,linear search; pseudocode; collection; array; algorithm construction; found; not found
+May 2017,P1 HL,13d,3,Suggest,4,4.2,order checking; algorithm design; ascending order; binary search precondition
+May 2017,P1 HL,14a,2,Outline,6,6.1,paging; virtual memory; memory management; secondary storage
+May 2017,P1 HL,14b,3,Explain,6,6.1,RAM limitations; processor; resource constraints; gaming consequences; performance
+May 2017,P1 HL,14c,2,Suggest,5,5.1,stack; LIFO; undo; game actions; applications of stack
+May 2017,P1 HL,14d,6,Construct,5,5.1,stack; queue; access methods; pop; enqueue; algorithm; fixed size
+May 2017,P1 HL,14e,2,Outline,5,5.1,dynamic data structure; queue; flexible size; memory efficiency
+May 2017,P1 HL,15a,1,State,5,5.1,2D array; data calculation; total readings
+May 2017,P1 HL,15b,4,Construct,5,5.1,2D array; algorithm; collection; data storage; temperature readings
+May 2017,P1 HL,15c,6,Construct,5,5.1,2D array; algorithm; maximum value; output; day of week; string array
+May 2017,P1 HL,15d,4,Explain,5,5.1,binary tree; BST; tree construction; tree traversal; descending order; sorted output
+May 2017,P1 HL,16a,2,Define,7,7.1,embedded system; control system; microprocessor; dedicated hardware
+May 2017,P1 HL,16b,2,Outline,7,7.1,feedback; control system; desired outcome; stability; error correction
+May 2017,P1 HL,16c,6,List,7,7.1,feedback loop; sensor; processor; transducer; actuator; motor control; negative feedback
+May 2017,P1 HL,16d,5,Explain,7,7.1,interrupt; sensor; actuator; processor; control system; interrupt handling; operating system
+May 2017,P1 HL,2,2,Identify,1,1.1,data loss; causes of data loss; hardware failure; human error
+May 2017,P1 HL,3,2,Identify,1,1.1,software update; release management; bug fixes; security patches
+May 2017,P1 HL,4,2,Explain,2,2.1,cache memory; CPU; processing speed; memory hierarchy
+May 2017,P1 HL,5,2,Describe,6,6.1,memory management; operating system; multitasking; memory allocation
+May 2017,P1 HL,6,2,Identify,3,3.1,OSI model; network layers; layered architecture
+May 2017,P1 HL,7,3,Explain,3,3.1,data compression; lossy compression; data loss; quality degradation
+May 2017,P1 HL,8,3,Explain,3,3.1,MAC address; network security; MAC filtering; access control
+May 2017,P1 HL,9,3,Identify,5,5.1,doubly linked list; node; next pointer; previous pointer; data field
+Nov 2017,P1 HL,1,2,Identify,4,4.3,computer language; essential features
+Nov 2017,P1 HL,10a,2,Describe,2,2.1,application software; spellchecker
+Nov 2017,P1 HL,10b,2,Outline,1,1.1,compatibility; installation; changeover
+Nov 2017,P1 HL,10c,4,Compare,1,1.1,direct changeover; phased conversion; installation
+Nov 2017,P1 HL,10d,1,Identify,1,1.1,testing
+Nov 2017,P1 HL,10e,6,Construct,4,4.2,linear array; algorithm; standard algorithm
+Nov 2017,P1 HL,11a,1,Identify,3,3.1,wireless network; hardware components
+Nov 2017,P1 HL,11b,4,Outline,3,3.1,wireless networks; advantages; disadvantages
+Nov 2017,P1 HL,11c,3,Identify,3,3.1,network security; unauthorized access
+Nov 2017,P1 HL,11d,1,Define,3,3.1,protocol
+Nov 2017,P1 HL,11e,6,Explain,3,3.1,packet switching; data transmission
+Nov 2017,P1 HL,12a,2,Identify,7,7.1,input devices; control system; data collection
+Nov 2017,P1 HL,12b,2,Outline,7,7.1,microprocessor; sensor; control system
+Nov 2017,P1 HL,12c,2,Outline,7,7.1,sensor; processor; output transducer
+Nov 2017,P1 HL,12d,4,Compare,7,7.1,centrally controlled; distributed system
+Nov 2017,P1 HL,12e,2,Identify,2,2.1,operating system; functions
+Nov 2017,P1 HL,12f,3,Suggest,6,6.1,interrupt; polling; resource management
+Nov 2017,P1 HL,13a,2,Describe,5,5.1,dynamic data structure; features; characteristics
+Nov 2017,P1 HL,13b,6,Explain,5,5.1,doubly linked list; sketch; insertion
+Nov 2017,P1 HL,13c,4,Determine,5,5.1,stack; access methods; algorithm
+Nov 2017,P1 HL,13d,3,Describe,5,5.1,stack; characteristics; applications
+Nov 2017,P1 HL,14a,1,State,5,5.1,two-dimensional array; characteristics
+Nov 2017,P1 HL,14b,1,State,5,5.1,two-dimensional array; sparse matrix
+Nov 2017,P1 HL,14c,6,Construct,5,5.1,two-dimensional array; algorithm; compression
+Nov 2017,P1 HL,14d,2,Outline,5,5.1,sparse matrix; compression; algorithm
+Nov 2017,P1 HL,14e,1,State,5,5.1,sparse matrix; row-major; ROWC
+Nov 2017,P1 HL,14f(i),1,State,5,5.1,sparse matrix; VALUES; index
+Nov 2017,P1 HL,14f(ii),3,Determine,5,5.1,sparse matrix; index range; algorithm
+Nov 2017,P1 HL,2a,1,State,1,1.2,client; networked world
+Nov 2017,P1 HL,2b,1,State,1,1.2,server; networked world
+Nov 2017,P1 HL,3,1,Identify,1,1.2,accessibility; input
+Nov 2017,P1 HL,4,3,Complete,2,2.1,truth table; NOR; Boolean operators
+Nov 2017,P1 HL,5,3,Construct,2,2.1,logic diagram; Boolean expression
+Nov 2017,P1 HL,6a,1,Determine,5,5.1,recursion; trace algorithm
+Nov 2017,P1 HL,6b,3,Determine,5,5.1,recursion; trace algorithm
+Nov 2017,P1 HL,6c,4,Construct,4,4.3,iteration; loops; algorithm
+Nov 2017,P1 HL,7a,1,State,2,2.1,primary memory; machine instruction cycle
+Nov 2017,P1 HL,7b,2,Outline,2,2.1,data bus; address bus; machine instruction cycle
+Nov 2017,P1 HL,8,1,Define,2,2.1,bit
+Nov 2017,P1 HL,9,2,Outline,1,1.1,beta testing; types of testing
+May 2018,P1 HL,10,2,Outline,6,6.1,interrupt; operating system; resource management
+May 2018,P1 HL,11a,5,Outline,4,4.2,pseudocode; sequential file; matching records; algorithm design
+May 2018,P1 HL,11b,4,Describe,1,1.1,data loss; backup methods; data restoration
+May 2018,P1 HL,11c,6,Discuss,1,1.2,data privacy; cloud storage; access control; social and ethical issues
+May 2018,P1 HL,12a,1,Define,4,4.1,concurrent processing; definition
+May 2018,P1 HL,12b,1,Identify,4,4.1,concurrent processing; Gantt chart; parallel tasks
+May 2018,P1 HL,12c,1,Identify,4,4.1,sequential processing; Gantt chart; task ordering
+May 2018,P1 HL,12d,4,Outline,3,3.1,wireless LAN; WLAN; advantages; wireless networking
+May 2018,P1 HL,12e,4,Discuss,3,3.1,WLAN security; network security; security issues
+May 2018,P1 HL,12f,4,Explain,3,3.1,VPN; virtual private network; remote access; security
+May 2018,P1 HL,13a,5,Construct,5,5.1,stack; pseudocode; search algorithm; pop operation
+May 2018,P1 HL,13b,3,Explain,5,5.1,binary search tree; stack; comparison; searching; data structures
+May 2018,P1 HL,13c,4,Describe,5,5.1,recursion; binary search tree; insertion; recursive procedure
+May 2018,P1 HL,13d,3,Sketch,5,5.1,binary search tree; tree sketch; ordered insertion
+May 2018,P1 HL,14a,4,Describe,7,7.1,control system; hardware components; sensors; light sensor; microprocessor
+May 2018,P1 HL,14b,3,Explain,7,7.1,feedback; control system; sensor; output transducer
+May 2018,P1 HL,14c,5,Outline,7,7.1,control algorithm; feedback loop; sensors; water content; light intensity; conditions
+May 2018,P1 HL,15a,4,Construct,5,5.1,two-dimensional array; pseudocode; collection; loop; reading data
+May 2018,P1 HL,15b,4,Construct,5,5.1,two-dimensional array; procedure; sum; column; pseudocode
+May 2018,P1 HL,15c,3,Construct,5,5.1,two-dimensional array; sub-procedure; average; maximum; pseudocode
+May 2018,P1 HL,15d,7,Construct,5,5.1,two-dimensional array; procedure; sales calculation; loops; array access; pseudocode
+May 2018,P1 HL,1a,2,Describe,1,1.2,stakeholders; requirements; methods of obtaining
+May 2018,P1 HL,1b,2,Outline,1,1.2,prototype; system design; client demonstration
+May 2018,P1 HL,2,2,Outline,2,2.1,memory data register; MDR; machine execution cycle; CPU registers
+May 2018,P1 HL,3,2,Calculate,2,2.1,hexadecimal; binary representation; colour; data representation
+May 2018,P1 HL,4,3,Explain,6,6.1,memory management; operating system; resource management
+May 2018,P1 HL,5,3,Construct,2,2.1,logic diagram; Boolean expression; NOT; OR; AND; logic gates
+May 2018,P1 HL,6,3,Determine,4,4.2,algorithm tracing; flowchart; div; mod; operators
+May 2018,P1 HL,7,1,Define,5,5.1,recursion; definition
+May 2018,P1 HL,8,2,Describe,5,5.1,queue; FIFO; characteristics; abstract data structure
+May 2018,P1 HL,9,3,Compare,5,5.1,linked list; array; static vs dynamic; data structure comparison
+Nov 2018,P1 HL,10a(i),1,Identify,1,1.1,hardware security; prevent data loss
+Nov 2018,P1 HL,10a(ii),1,Identify,1,1.1,software security; prevent data loss
+Nov 2018,P1 HL,10b,1,Identify,3,3.1,network security; methods
+Nov 2018,P1 HL,10c,3,Explain,7,7.1,control system; environmental benefit; pipeline
+Nov 2018,P1 HL,10d,4,Explain,7,7.1,sensor; processor; output transducer; relationship
+Nov 2018,P1 HL,10e,5,Construct,1,1.2,system flowchart; system requirements; representations
+Nov 2018,P1 HL,11a,3,Compare,5,5.1,linked list; array; dynamic; static; data structures
+Nov 2018,P1 HL,11b,2,Sketch,5,5.1,linked list; single linked list
+Nov 2018,P1 HL,11c(i),4,List,5,5.1,linked list; insertion; operation
+Nov 2018,P1 HL,11c(ii),2,Explain,5,5.1,linked list; deletion; first node
+Nov 2018,P1 HL,11d,1,State,5,5.1,binary search tree; search; suitable structure
+Nov 2018,P1 HL,11e,3,Sketch,5,5.1,binary tree; sorted order
+Nov 2018,P1 HL,12a(i),1,State,4,4.3,variables; parameters; swap
+Nov 2018,P1 HL,12a(ii),2,Suggest,4,4.3,parameters; by reference; sub-programme
+Nov 2018,P1 HL,12b,4,Construct,4,4.2,two-dimensional array; algorithm; pseudocode
+Nov 2018,P1 HL,12c(i),1,State,4,4.2,array; data
+Nov 2018,P1 HL,12c(ii),1,State,4,4.2,two-dimensional array; indexing
+Nov 2018,P1 HL,12d,6,Construct,4,4.2,selection sort; algorithm; linear array
+Nov 2018,P1 HL,1a,2,Outline,3,3.1,computer network; types of networks
+Nov 2018,P1 HL,1b,2,Describe,3,3.1,bandwidth; data transmission; speed
+Nov 2018,P1 HL,2a,1,Identify,1,1.2,direct observation; obtaining requirements; stakeholders
+Nov 2018,P1 HL,2b,1,Identify,1,1.2,direct observation; obtaining requirements
+Nov 2018,P1 HL,3,3,Construct,2,2.1,logic diagram; Boolean; AND; OR; NOT
+Nov 2018,P1 HL,4a,2,Identify,1,1.1,data migration; compatibility; legacy systems
+Nov 2018,P1 HL,4b,2,Outline,3,3.1,VPN; remote access
+Nov 2018,P1 HL,4c,2,Outline,1,1.2,social and ethical issues; new IT systems
+Nov 2018,P1 HL,5,4,Describe,3,3.1,packet switching; data transmission
+Nov 2018,P1 HL,6,3,Explain,5,5.1,stack; isEmpty; access methods
+Nov 2018,P1 HL,7,3,Distinguish,6,6.1,scheduling; time slicing; priorities; resource management
+Nov 2018,P1 HL,8a(i),3,Distinguish,2,2.1,RAM; ROM; primary memory
+Nov 2018,P1 HL,8a(ii),2,Outline,6,6.1,operating system; memory management
+Nov 2018,P1 HL,8b,4,Explain,2,2.1,data bus; address bus; machine instruction cycle
+Nov 2018,P1 HL,8c(i),1,State,2,2.1,hexadecimal; binary representation
+Nov 2018,P1 HL,8c(ii),1,State,2,2.1,byte; integers; representation
+Nov 2018,P1 HL,8c(iii),2,Outline,2,2.1,character encoding; representation; Unicode
+Nov 2018,P1 HL,8d,2,Construct,2,2.1,truth table; Boolean operators
+Nov 2018,P1 HL,9a,2,Outline,4,4.3,higher level languages
+Nov 2018,P1 HL,9b,4,Explain,4,4.3,sub-programmes; modularity; reuse; abstraction
+Nov 2018,P1 HL,9c,3,Identify,4,4.3,collection; characteristics; applications
+Nov 2018,P1 HL,9d,6,Construct,4,4.3,collection; access methods; algorithm
+May 2019,P1 HL,1,1,Define,1,1.2,peripheral; hardware; software
+May 2019,P1 HL,10,2,Outline,3,3.1,protocols; data transmission
+May 2019,P1 HL,11,2,State,5,5.1,binary tree; postorder traversal
+May 2019,P1 HL,12,2,Outline,5,5.1,binary tree; suitable structure; address book
+May 2019,P1 HL,13a,4,Describe,1,1.1,data loss; causes
+May 2019,P1 HL,13b,4,Outline,1,1.1,backup; prevent data loss
+May 2019,P1 HL,13c,3,Explain,1,1.1,beta testing; types of testing
+May 2019,P1 HL,13d,2,Outline,1,1.2,end-user; design process; consequences
+May 2019,P1 HL,13e,2,Identify,1,1.2,accessibility
+May 2019,P1 HL,14a,2,Identify,2,2.1,RAM; primary memory
+May 2019,P1 HL,14b,1,State,2,2.1,persistent storage
+May 2019,P1 HL,14c,2,Identify,2,2.1,application software
+May 2019,P1 HL,14d(i),2,Outline,3,3.1,wireless networks; advantages
+May 2019,P1 HL,14d(ii),2,Outline,3,3.1,wireless networks; disadvantages
+May 2019,P1 HL,14e,2,Describe,3,3.1,network security
+May 2019,P1 HL,14f,4,Explain,3,3.1,data transmission; speed; wireless
+May 2019,P1 HL,15a,5,Complete,4,4.2,selection sort; linear array; tracing
+May 2019,P1 HL,15b(i),3,Construct,4,4.2,flowchart; pseudocode; algorithm
+May 2019,P1 HL,15b(ii),1,State,4,4.2,bubble sort; standard algorithm
+May 2019,P1 HL,15c,2,Construct,4,4.2,array; algorithm; output
+May 2019,P1 HL,15d,3,Explain,5,5.1,dynamic data structure; static data structure
+May 2019,P1 HL,15e,1,Identify,5,5.1,data structure; suitable for situation
+May 2019,P1 HL,16a,2,Identify,2,2.1,operating system; functions
+May 2019,P1 HL,16b,3,Explain,6,6.1,dedicated operating system
+May 2019,P1 HL,16c,5,Explain,7,7.1,sensors; microprocessors; control system; temperature
+May 2019,P1 HL,16d,3,Contrast,7,7.1,distributed; centralized; control system
+May 2019,P1 HL,17a,5,Construct,5,5.1,two-dimensional array; algorithm; search
+May 2019,P1 HL,17b,5,Construct,5,5.1,two-dimensional array; algorithm
+May 2019,P1 HL,17c,5,Explain,5,5.1,singly linked list; insertion
+May 2019,P1 HL,17d,2,Outline,5,5.1,circular linked list; linear linked list
+May 2019,P1 HL,2,2,Identify,1,1.2,GUI; usability; digital devices
+May 2019,P1 HL,3,2,Outline,2,2.1,MAR; CPU; registers
+May 2019,P1 HL,4,2,Outline,6,6.1,single processor; resource limitations; 3D graphics
+May 2019,P1 HL,5a,2,Outline,6,6.1,virtual memory; advantage
+May 2019,P1 HL,5b,2,Outline,6,6.1,virtual memory; disadvantage
+May 2019,P1 HL,6,1,State,2,2.1,hexadecimal; binary; number systems
+May 2019,P1 HL,7,3,Construct,2,2.1,truth table; logic gates; Boolean
+May 2019,P1 HL,8,2,Outline,1,1.2,stakeholders; requirements; information gathering
+May 2019,P1 HL,9,2,Identify,3,3.1,PAN; network types
+Nov 2019,P1 HL,1,2,Describe,1,1.1,offsite storage; data loss; prevent data loss
+Nov 2019,P1 HL,10a,4,Outline,3,3.1,computer network; advantages
+Nov 2019,P1 HL,10b(i),2,Describe,3,3.1,router; hardware
+Nov 2019,P1 HL,10b(ii),2,Describe,3,3.1,NIC; network interface card
+Nov 2019,P1 HL,10c,2,Outline,3,3.1,protocols
+Nov 2019,P1 HL,10d,1,Define,3,3.1,data encryption; network security
+Nov 2019,P1 HL,10e,4,Evaluate,3,3.1,MAC address; network security
+Nov 2019,P1 HL,11a(i),1,Define,1,1.2,screen resolution; usability
+Nov 2019,P1 HL,11a(ii),4,Describe,1,1.2,usability; devices; responsive design
+Nov 2019,P1 HL,11b,4,Explain,2,2.1,operating system; hardware; resource management
+Nov 2019,P1 HL,11c,6,Describe,7,7.1,sensor; processor; output transducer; control system
+Nov 2019,P1 HL,12a,2,State,5,5.1,stack; applications
+Nov 2019,P1 HL,12b,6,Explain,5,5.1,static stack; array; push; pop; isEmpty; isFull
+Nov 2019,P1 HL,12c(i),1,State,5,5.1,binary tree; postorder traversal
+Nov 2019,P1 HL,12c(ii),3,Sketch,5,5.1,binary tree; deletion; root
+Nov 2019,P1 HL,12d,3,Compare,5,5.1,static; dynamic; data structures
+Nov 2019,P1 HL,13a,1,State,5,5.1,two-dimensional array; indexing
+Nov 2019,P1 HL,13b,8,Construct,5,5.1,algorithm; two-dimensional array; validation; diagonal
+Nov 2019,P1 HL,13c,4,Determine,5,5.1,recursion; trace recursive algorithm
+Nov 2019,P1 HL,13d,2,Deduce,5,5.1,recursion; recursive method
+Nov 2019,P1 HL,2,3,Explain,2,2.1,cache memory
+Nov 2019,P1 HL,3a,1,State,2,2.1,hexadecimal; representation
+Nov 2019,P1 HL,3b,1,State,2,2.1,representation; colour; bits
+Nov 2019,P1 HL,3c,1,State,2,2.1,representation; colour; pixel
+Nov 2019,P1 HL,4,4,Construct,2,2.1,truth table; Boolean; XOR; NOR
+Nov 2019,P1 HL,5,3,Sketch,5,5.1,doubly linked list; linked list
+Nov 2019,P1 HL,6,3,Explain,4,4.1,abstraction; algorithms
+Nov 2019,P1 HL,7,2,Outline,6,6.1,virtual memory; memory management
+Nov 2019,P1 HL,8,5,Construct,4,4.2,trace table; algorithm; iteration
+Nov 2019,P1 HL,9a,2,Identify,1,1.1,organizational issues; implementation
+Nov 2019,P1 HL,9b,5,Evaluate,1,1.1,phased conversion; direct changeover; installation
+Nov 2019,P1 HL,9c(i),1,State,1,1.1,testing; user acceptance
+Nov 2019,P1 HL,9c(ii),3,Identify,1,1.1,testing; inadequate testing; consequences
+Nov 2019,P1 HL,9d,4,Discuss,1,1.2,social issues; ethical issues; new IT systems
+Nov 2020,P1 HL,10a,2,Identify,1,1.2,usability; website design; 1.2.12; 1.2.13
+Nov 2020,P1 HL,10b,2,Outline,1,1.2,accessibility; visual design; 1.2.14
+Nov 2020,P1 HL,10c(i),1,State,2,2.1,primary memory; RAM; 2.1.2
+Nov 2020,P1 HL,10c(ii),4,Explain,6,6.1,operating system; memory; multi-user; resource management; 6.1.5
+Nov 2020,P1 HL,10d,6,Explain,1,1.2,ethics; data sharing; privacy; social and ethical issues; 1.2.16
+Nov 2020,P1 HL,11a,4,Describe,7,7.1,sensors; control system; input devices; 7.1.2; 7.1.3
+Nov 2020,P1 HL,11b,3,Explain,7,7.1,output transducer; sensor; processor; 7.1.4
+Nov 2020,P1 HL,11c(i),1,Identify,3,3.1,network security; authentication; access control; 3.1.15
+Nov 2020,P1 HL,11c(ii),3,Describe,3,3.1,authentication; security method; 3.1.15
+Nov 2020,P1 HL,11d,4,Compare,6,6.1,polling; interrupts; resource management; 6.1.7
+Nov 2020,P1 HL,12a,2,Describe,5,5.1,stack; queue; characteristics; 5.1.6; 5.1.8
+Nov 2020,P1 HL,12b(i),1,State,5,5.1,queue; enqueue; access methods; 5.1.9
+Nov 2020,P1 HL,12b(ii),1,State,5,5.1,queue; dequeue; access methods; 5.1.9
+Nov 2020,P1 HL,12b(iii),1,State,5,5.1,queue; isEmpty; access methods; 5.1.9
+Nov 2020,P1 HL,12c,5,Construct,5,5.1,queue; stack; algorithm; 5.1.7; 5.1.9
+Nov 2020,P1 HL,12d,3,Determine,5,5.1,recursion; trace; recursive algorithm; 5.1.3
+Nov 2020,P1 HL,12e,2,Outline,5,5.1,recursion; recursive thinking; disadvantage; 5.1.1
+Nov 2020,P1 HL,13a,3,Construct,5,5.1,two-dimensional array; algorithm; 5.1.5
+Nov 2020,P1 HL,13b(i),1,State,4,4.2,rotation; modulo; algorithm; 4.2.8
+Nov 2020,P1 HL,13b(ii),2,Outline,4,4.2,algorithm efficiency; modulo; 4.2.8
+Nov 2020,P1 HL,13c,3,Construct,5,5.1,two-dimensional array; algorithm; 5.1.5
+Nov 2020,P1 HL,13d,6,Construct,5,5.1,two-dimensional array; transpose; algorithm; 5.1.5
+Nov 2020,P1 HL,1a,2,Outline,2,2.1,application software; word processor; templates; macros; 2.1.7
+Nov 2020,P1 HL,1b,1,State,1,1.1,user documentation; technical documentation; 1.1.8
+Nov 2020,P1 HL,2a,1,State,5,5.1,binary tree; inorder traversal; 5.1.16
+Nov 2020,P1 HL,2b,1,State,5,5.1,binary tree; preorder traversal; 5.1.16
+Nov 2020,P1 HL,3,3,Describe,6,6.1,paging; operating system; memory management; 6.1.7
+Nov 2020,P1 HL,4,4,Compare,1,1.1,direct changeover; parallel running; installation processes; 1.1.5
+Nov 2020,P1 HL,5,2,Outline,7,7.1,autonomous agents; 7.1.8
+Nov 2020,P1 HL,6a,1,State,2,2.1,CPU; control unit; decode; machine instruction cycle; 2.1.1; 2.1.4
+Nov 2020,P1 HL,6b,2,Outline,2,2.1,MAR; memory address register; registers; 2.1.1
+Nov 2020,P1 HL,7,4,Describe,4,4.2,bubble sort; standard algorithms; linear arrays; 4.2.1
+Nov 2020,P1 HL,8,4,Construct,2,2.1,truth table; Boolean logic; XOR; AND; NOT; 2.1.11; 2.1.12
+Nov 2020,P1 HL,9a,3,Describe,3,3.1,router; network; hardware; 3.1.13
+Nov 2020,P1 HL,9b,4,Outline,3,3.1,data transmission; speed; bandwidth; congestion; 3.1.8
+Nov 2020,P1 HL,9c,4,Outline,3,3.1,network security; data protection; 3.1.15
+Nov 2020,P1 HL,9d,4,Outline,4,4.2,algorithm; pseudocode; condition; iteration; 4.2.6
+May 2021,P1 HL,1,2,Identify,1,1.2,computer roles; networked world
+May 2021,P1 HL,10,2,Identify,5,5.1,dynamic data structure; characteristics
+May 2021,P1 HL,11,3,Sketch,5,5.1,binary tree; inorder traversal; balanced
+May 2021,P1 HL,12a,4,Describe,3,3.1,wireless network; hardware components
+May 2021,P1 HL,12b,2,Identify,3,3.1,wireless network; advantages
+May 2021,P1 HL,12c,4,Outline,3,3.1,network security; wireless
+May 2021,P1 HL,12d,2,Identify,3,3.1,VPN; technologies
+May 2021,P1 HL,12e,3,Explain,3,3.1,VPN; remote access; evaluate
+May 2021,P1 HL,13a,4,Construct,4,4.3,array; collection; pseudocode
+May 2021,P1 HL,13b,5,Construct,4,4.2,bubble sort; linear array; pseudocode
+May 2021,P1 HL,13c,4,Describe,4,4.2,binary search; linear array
+May 2021,P1 HL,13d,2,Outline,4,4.3,subprograms; modularity; reuse
+May 2021,P1 HL,14a(i),1,Identify,4,4.2,flowchart; logic error
+May 2021,P1 HL,14a(ii),2,Outline,4,4.2,logic error; correction
+May 2021,P1 HL,14b,1,State,4,4.2,validation; input restriction
+May 2021,P1 HL,14c,8,Construct,4,4.2,pseudocode; flowchart; validation; average
+May 2021,P1 HL,15a,4,Outline,6,6.1,resource management; scheduling; virtual memory; paging
+May 2021,P1 HL,15b,2,Outline,6,6.1,operating system; hardware abstraction
+May 2021,P1 HL,15c(i),2,Contrast,6,6.1,memory; laptop; file server; resources
+May 2021,P1 HL,15c(ii),2,Contrast,6,6.1,processor; laptop; file server; resources
+May 2021,P1 HL,15d,2,State,7,7.1,sensors; control system; lighting
+May 2021,P1 HL,15e,4,Explain,7,7.1,sensor; processor; output transducer; control
+May 2021,P1 HL,15f,2,Outline,7,7.1,feedback; timing; occupancy
+May 2021,P1 HL,16a,2,Outline,5,5.1,queue; characteristics; applications; FIFO
+May 2021,P1 HL,16b,3,Draw,5,5.1,queue; linked list; sketch
+May 2021,P1 HL,16c,3,Explain,5,5.1,stack; queue; FIFO; LIFO; applications
+May 2021,P1 HL,16d,3,Complete,5,5.1,stack; trace table; factorial
+May 2021,P1 HL,16e,4,Explain,5,5.1,stack; recursion; recursive function
+May 2021,P1 HL,2,2,Describe,1,1.1,implementation; installation processes
+May 2021,P1 HL,3,2,Draw,2,2.1,logic circuit; truth table; logic gates
+May 2021,P1 HL,4a,2,Identify,1,1.1,patches; releases and updates
+May 2021,P1 HL,4b,2,Identify,1,1.1,patches; obtaining updates
+May 2021,P1 HL,5,2,Calculate,2,2.1,hexadecimal; denary; number representation
+May 2021,P1 HL,6,2,Identify,3,3.1,fibre optic; transmission media; wireless
+May 2021,P1 HL,7,2,Distinguish,4,4.3,variable; constant
+May 2021,P1 HL,8,3,List,4,4.2,algorithm; tracing; pseudocode
+May 2021,P1 HL,9,1,Identify,6,6.1,dedicated operating system; device
+Nov 2021,P1 HL,1,2,State,2,2.1,primary memory; secondary memory; persistent storage
+Nov 2021,P1 HL,10a,4,Outline,1,1.1,access control; data loss prevention; security
+Nov 2021,P1 HL,10b,4,Outline,3,3.1,network security; methods
+Nov 2021,P1 HL,10c,4,Explain,1,1.1,data recovery; data loss; backup
+Nov 2021,P1 HL,10d,3,Explain,3,3.1,VPN; security; remote access
+Nov 2021,P1 HL,11a,4,Explain,7,7.1,GPS; control system; positioning
+Nov 2021,P1 HL,11b(i),1,State,7,7.1,real-time data; display; arrival
+Nov 2021,P1 HL,11b(ii),2,Outline,7,7.1,sensors; microprocessor; accuracy
+Nov 2021,P1 HL,11c,4,Outline,4,4.2,application; data; user information
+Nov 2021,P1 HL,11d,4,Discuss,7,7.1,GPS; transportation; embedded systems
+Nov 2021,P1 HL,12a,3,Sketch,5,5.1,circular linked list; insertion; deletion
+Nov 2021,P1 HL,12b,2,Outline,5,5.1,circular linked list; traversal; last node
+Nov 2021,P1 HL,12c,4,Describe,5,5.1,linked list; iteration; algorithm; sum
+Nov 2021,P1 HL,12d,4,Compare,5,5.1,static; dynamic data structures
+Nov 2021,P1 HL,12e,2,Identify,5,5.1,queue; applications
+Nov 2021,P1 HL,13a,1,State,5,5.1,two-dimensional array; lookup
+Nov 2021,P1 HL,13b,5,Construct,5,5.1,two-dimensional array; validation; algorithm
+Nov 2021,P1 HL,13c,6,Construct,5,5.1,two-dimensional array; search; algorithm; distance
+Nov 2021,P1 HL,13d,3,Explain,5,5.1,two-dimensional array; algorithm; travel time
+Nov 2021,P1 HL,2,1,State,2,2.1,hexadecimal; binary; number representation
+Nov 2021,P1 HL,3a,2,Outline,4,4.2,sorting; standard algorithms; linear arrays
+Nov 2021,P1 HL,3b,2,Outline,4,4.2,bubble sort; selection sort; comparison
+Nov 2021,P1 HL,4,2,Determine,2,2.1,Boolean operators; truth value; expression
+Nov 2021,P1 HL,5a,1,Identify,5,5.1,binary tree; non-binary tree; structure
+Nov 2021,P1 HL,5b,2,Construct,5,5.1,binary search tree; deletion; root
+Nov 2021,P1 HL,6,3,Explain,3,3.1,compression; data transmission; network
+Nov 2021,P1 HL,7a,2,Outline,4,4.1,abstraction; sub-procedures
+Nov 2021,P1 HL,7b,3,Evaluate,4,4.1,concurrent processing; software design
+Nov 2021,P1 HL,7c,2,Outline,1,1.1,releases; updates; strategies
+Nov 2021,P1 HL,8,3,Explain,6,6.1,operating system; peripherals; hardware interfaces
+Nov 2021,P1 HL,9a(i),2,Outline,1,1.2,surveys; requirements; stakeholders
+Nov 2021,P1 HL,9a(ii),2,Outline,1,1.2,surveys; requirements; disadvantages
+Nov 2021,P1 HL,9b,1,Identify,1,1.2,requirements; stakeholders; methods
+Nov 2021,P1 HL,9c,4,Outline,1,1.2,prototypes; proposed system; client
+Nov 2021,P1 HL,9d,3,Explain,1,1.2,iteration; design process; analysis
+Nov 2021,P1 HL,9e,3,Explain,1,1.1,testing; implementation
+May 2022,P1 HL,1,2,State,1,1.1,compatibility; business mergers; legacy systems
+May 2022,P1 HL,10,2,Define,5,5.1,binary tree; child; parent
+May 2022,P1 HL,11a(i),1,Identify,1,1.2,stakeholders; planning new system
+May 2022,P1 HL,11a(ii),2,Outline,1,1.2,stakeholders; end-user; design process
+May 2022,P1 HL,11b,4,Describe,1,1.2,techniques; gathering information; workable solution
+May 2022,P1 HL,11c,2,Outline,1,1.1,testing; development process
+May 2022,P1 HL,11d,6,Evaluate,1,1.1,installation processes; implementation methods
+May 2022,P1 HL,12a,2,Identify,4,4.1,conditional statement; decision; condition
+May 2022,P1 HL,12b,5,Construct,4,4.3,algorithm; pseudocode; array; collections
+May 2022,P1 HL,12c,2,Outline,4,4.3,parallel arrays; indexing; collection
+May 2022,P1 HL,12d,3,Construct,4,4.3,algorithm; pseudocode; array; branching
+May 2022,P1 HL,12e,3,Explain,4,4.3,algorithm; user input; selection
+May 2022,P1 HL,13a,1,State,7,7.1,sensor; input device; control system; headlights
+May 2022,P1 HL,13b,6,Explain,7,7.1,feedback; sensor; processor; output; control system
+May 2022,P1 HL,13c,5,Discuss,7,7.1,centralized; distributed; control systems; vehicles
+May 2022,P1 HL,13d,3,Explain,7,7.1,ethics; embedded systems; autonomous vehicles
+May 2022,P1 HL,14a(i),2,Construct,4,4.3,subprogram; pseudocode; perimeter
+May 2022,P1 HL,14a(ii),4,Construct,4,4.3,subprogram; pseudocode; parameters
+May 2022,P1 HL,14a(iii),5,Construct,4,4.2,flowchart; pseudocode; subprograms; algorithm
+May 2022,P1 HL,14b,4,Explain,4,4.2,algorithm; abstraction; modification
+May 2022,P1 HL,15a,6,Complete,5,5.1,stack; trace table; RPN; postfix; algorithm
+May 2022,P1 HL,15b,3,Explain,5,5.1,stack; characteristics; applications; RPN
+May 2022,P1 HL,15c,4,Outline,5,5.1,binary tree; postorder traversal
+May 2022,P1 HL,15d,2,State,5,5.1,binary tree; inorder traversal
+May 2022,P1 HL,2,2,Outline,1,1.1,user documentation; importance
+May 2022,P1 HL,3,2,Identify,3,3.1,networks; WAN; LAN; types
+May 2022,P1 HL,4,2,Outline,3,3.1,compression; data transmission
+May 2022,P1 HL,5,2,Outline,4,4.3,translation; high level language; machine code
+May 2022,P1 HL,6,4,Draw,2,2.1,logic circuit; truth table; NAND; XOR; NOT; Boolean
+May 2022,P1 HL,7a,2,Calculate,2,2.1,binary; denary; number representation
+May 2022,P1 HL,7b,2,Calculate,2,2.1,hexadecimal; denary; number representation
+May 2022,P1 HL,8,3,State,6,6.1,operating system; resource management; scheduling; multitasking
+May 2022,P1 HL,9a,1,Identify,5,5.1,queue; characteristics
+May 2022,P1 HL,9b,1,Identify,5,5.1,queue; applications
+Nov 2022,P1 HL,1,2,Outline,4,4.3,translation; higher level language; machine executable code
+Nov 2022,P1 HL,10a,1,Identify,3,3.1,wireless network; hardware component
+Nov 2022,P1 HL,10b,4,Distinguish,3,3.1,wired network; wireless network; reliability; transmission
+Nov 2022,P1 HL,10c,2,Outline,3,3.1,wireless network; security
+Nov 2022,P1 HL,10d,4,Outline,3,3.1,VPN; secure
+Nov 2022,P1 HL,10e,4,Explain,3,3.1,packet switching
+Nov 2022,P1 HL,11a(i),1,Define,1,1.1,data migration
+Nov 2022,P1 HL,11a(ii),4,Outline,1,1.1,data migration; problems; compatibility
+Nov 2022,P1 HL,11b,4,Outline,1,1.1,change management
+Nov 2022,P1 HL,11c,3,Explain,1,1.1,legacy systems; compatibility
+Nov 2022,P1 HL,11d,3,Explain,1,1.1,parallel running; installation process
+Nov 2022,P1 HL,12a,4,Outline,7,7.1,control system; smart building
+Nov 2022,P1 HL,12b,4,Explain,7,7.1,sensor; processor; output transducer
+Nov 2022,P1 HL,12c(i),2,Identify,2,2.1,operating system; main functions
+Nov 2022,P1 HL,12c(ii),2,Suggest,6,6.1,interrupt; polling; resource management
+Nov 2022,P1 HL,12d,3,Explain,7,7.1,control system; benefits
+Nov 2022,P1 HL,13a(i),5,Describe,4,4.2,bubble sort; standard algorithm; linear array
+Nov 2022,P1 HL,13a(ii),1,Identify,4,4.2,sorting algorithm
+Nov 2022,P1 HL,13b,3,Identify,5,5.1,binary tree; node; parent; left-child; right-child; subtree; root; leaf
+Nov 2022,P1 HL,13c,6,Describe,5,5.1,binary tree; insertion; traversal
+Nov 2022,P1 HL,14a,2,Construct,2,2.1,logic expression; Boolean; modulo; proper divisor
+Nov 2022,P1 HL,14b,3,Construct,4,4.3,subprogram; algorithm; pseudocode; divisors
+Nov 2022,P1 HL,14c,10,Construct,4,4.3,algorithm; one-dimensional array; two-dimensional array; subprogram
+Nov 2022,P1 HL,2a,2,Outline,1,1.2,prototyping; purpose; demonstrate proposed system
+Nov 2022,P1 HL,2b,2,Outline,1,1.2,prototyping; limitations; when not appropriate
+Nov 2022,P1 HL,3,2,Define,2,2.1,Boolean operator; XOR
+Nov 2022,P1 HL,4a,2,Outline,1,1.2,social and ethical issues; consent; privacy
+Nov 2022,P1 HL,4b,2,Outline,3,3.1,transmission; compatibility; codec; bandwidth
+Nov 2022,P1 HL,5a,1,State,2,2.1,binary representation; colour; pixel; RGB
+Nov 2022,P1 HL,5b,1,State,2,2.1,colour depth; bits per pixel
+Nov 2022,P1 HL,6,1,Define,4,4.3,variable
+Nov 2022,P1 HL,7,3,Explain,2,2.1,cache memory; CPU; performance
+Nov 2022,P1 HL,8a,1,Define,5,5.1,queue; data structure
+Nov 2022,P1 HL,8b,2,Identify,5,5.1,queue; print queue; job queue
+Nov 2022,P1 HL,9,4,Determine,5,5.1,recursive thinking; trace recursive algorithm; array
+May 2023,P1 HL,1,2,Outline,2,2.1,web browser; application software
+May 2023,P1 HL,10a,2,Identify,1,1.2,end users; stakeholders; design process
+May 2023,P1 HL,10b,2,Outline,1,1.1,legacy system; compatibility
+May 2023,P1 HL,10c,1,Identify,1,1.2,requirements; stakeholders
+May 2023,P1 HL,10d,3,Explain,1,1.1,data migration
+May 2023,P1 HL,10e,3,Explain,1,1.1,parallel running; direct changeover; installation
+May 2023,P1 HL,10f(i),1,Identify,1,1.1,training; end users
+May 2023,P1 HL,10f(ii),3,Evaluate,1,1.1,training; user documentation
+May 2023,P1 HL,11a,2,State,3,3.1,VPN; technologies
+May 2023,P1 HL,11b,2,Identify,3,3.1,data transmission; speed
+May 2023,P1 HL,11c,3,Explain,3,3.1,data compression; transmission
+May 2023,P1 HL,11d,2,Outline,3,3.1,encryption; network security
+May 2023,P1 HL,11e,2,Describe,3,3.1,firewall; network security
+May 2023,P1 HL,11f,4,Discuss,1,1.2,social impacts; ethical issues; networked world
+May 2023,P1 HL,12a,5,Outline,7,7.1,sensor; processor; output transducer; control system
+May 2023,P1 HL,12b,2,Describe,7,7.1,feedback; control system
+May 2023,P1 HL,12c(i),2,Describe,2,2.1,operating system; main functions
+May 2023,P1 HL,12c(ii),2,Outline,6,6.1,dedicated operating system
+May 2023,P1 HL,12d,4,Compare and contrast,7,7.1,centralized; distributed; control system
+May 2023,P1 HL,13a,4,Determine,5,5.1,recursion; trace recursive algorithm
+May 2023,P1 HL,13b,4,Outline,5,5.1,recursion; disadvantages
+May 2023,P1 HL,13c,2,Outline,5,5.1,stack; isEmpty; access methods
+May 2023,P1 HL,13d,5,Construct,5,5.1,stack; queue; access methods; algorithm
+May 2023,P1 HL,14a,3,Construct,5,5.1,two-dimensional array; algorithm
+May 2023,P1 HL,14b,4,Construct,5,5.1,two-dimensional array; subprogram; algorithm
+May 2023,P1 HL,14c,8,Construct,5,5.1,two-dimensional array; subprogram; algorithm
+May 2023,P1 HL,2,2,Identify,5,5.1,queues; applications
+May 2023,P1 HL,3,2,Outline,2,2.1,Unicode; character representation; data representation
+May 2023,P1 HL,4a,1,Define,6,6.1,interrupt
+May 2023,P1 HL,4b,3,Describe,6,6.1,polling; sensors
+May 2023,P1 HL,5,4,Construct,2,2.1,truth table; Boolean logic; NAND; NOR
+May 2023,P1 HL,6,2,Outline,4,4.3,collection; characteristics and applications
+May 2023,P1 HL,7,2,Distinguish,2,2.1,RAM; ROM; primary memory
+May 2023,P1 HL,8a,1,Identify,5,5.1,binary tree; leaf nodes
+May 2023,P1 HL,8b,1,State,5,5.1,binary tree; preorder traversal
+May 2023,P1 HL,8c,3,Sketch,5,5.1,binary tree; deletion
+May 2023,P1 HL,9,2,Outline,6,6.1,virtual memory; resource management
+Nov 2023,P1 HL,1,2,State,1,1.1,compatibility; business mergers; legacy systems
+Nov 2023,P1 HL,10a,2,Outline,3,3.1,network security; unauthorized access
+Nov 2023,P1 HL,10b(i),1,Identify,1,1.1,data loss; causes of data loss
+Nov 2023,P1 HL,10b(ii),2,Describe,1,1.1,prevent data loss; backup
+Nov 2023,P1 HL,10c,3,Describe,2,2.1,application software; word processor; mail merge
+Nov 2023,P1 HL,10d,4,Outline,3,3.1,VPN; remote access
+Nov 2023,P1 HL,10e,3,Explain,3,3.1,data transmission; speed; mobile network
+Nov 2023,P1 HL,11a(i),1,Identify,1,1.2,obtaining requirements; gathering information; stakeholders
+Nov 2023,P1 HL,11a(ii),2,Outline,1,1.2,gathering information; advantages
+Nov 2023,P1 HL,11b,2,Outline,1,1.2,prototypes; purpose; demonstrate to client
+Nov 2023,P1 HL,11c,3,Explain,1,1.1,testing; implementation
+Nov 2023,P1 HL,11d,3,Explain,1,1.2,ethical issues; images; new IT systems
+Nov 2023,P1 HL,11e(i),3,Describe,3,3.1,compression; transmission; file transfer
+Nov 2023,P1 HL,11e(ii),1,State,2,2.1,images; storage; application software
+Nov 2023,P1 HL,12a(i),2,Identify,7,7.1,sensors; input devices; control systems
+Nov 2023,P1 HL,12a(ii),2,Outline,7,7.1,sensors; microprocessor; control systems
+Nov 2023,P1 HL,12b,2,Suggest,2,2.1,memory; persistent storage; primary memory
+Nov 2023,P1 HL,12c(i),2,Outline,6,6.1,interrupt; resource management
+Nov 2023,P1 HL,12c(ii),3,Explain,6,6.1,interrupt; microprocessor; handling
+Nov 2023,P1 HL,12d(i),2,Outline,7,7.1,monitoring; cameras; embedded systems
+Nov 2023,P1 HL,12d(ii),2,Outline,7,7.1,social impacts; ethical considerations; surveillance
+Nov 2023,P1 HL,13a,2,Describe,5,5.1,linked list; structure; operate logically
+Nov 2023,P1 HL,13b,3,Explain,5,5.1,queue; linked list; suitable structure
+Nov 2023,P1 HL,13c,3,Describe,5,5.1,linked list; insertion; head
+Nov 2023,P1 HL,13d,4,Describe,5,5.1,linked list; insertion; traversal
+Nov 2023,P1 HL,13e,3,Compare,5,5.1,static; dynamic; data structures
+Nov 2023,P1 HL,14a,1,State,5,5.1,two-dimensional array; indexing; characteristics
+Nov 2023,P1 HL,14b,4,Construct,5,5.1,algorithm; two-dimensional array; counting
+Nov 2023,P1 HL,14c,10,Construct,5,5.1,algorithm; two-dimensional array; pseudocode; averaging
+Nov 2023,P1 HL,2,1,Define,2,2.1,Boolean; NAND; logic operators
+Nov 2023,P1 HL,3,3,Identify,2,2.1,control unit; CPU; functions
+Nov 2023,P1 HL,4,3,State,3,3.1,data packet; protocol
+Nov 2023,P1 HL,5,3,Sketch,5,5.1,binary tree; inorder traversal; sketch binary trees
+Nov 2023,P1 HL,6,2,Outline,6,6.1,virtual machine; resource management
+Nov 2023,P1 HL,7,2,Identify,1,1.2,usability; usability problems; voice recognition
+Nov 2023,P1 HL,8a,2,Outline,4,4.1,concurrent processing; thinking concurrently
+Nov 2023,P1 HL,8b,1,Identify,4,4.1,concurrent processing; advantages
+Nov 2023,P1 HL,9a,4,Determine,5,5.1,recursion; trace recursive algorithm
+Nov 2023,P1 HL,9b,2,Deduce,5,5.1,recursion; recursive thinking; purpose
+May 2024,P1 HL,10,2,Outline,7,7.1,sensors; microprocessor; control systems
+May 2024,P1 HL,11,4,Describe,7,7.1,feedback; sensors; microprocessor; control system
+May 2024,P1 HL,12a(i),2,Identify,3,3.1,transmission media; fibre optic
+May 2024,P1 HL,12a(ii),2,Identify,3,3.1,wireless; transmission; characteristics
+May 2024,P1 HL,12b,3,Describe,3,3.1,encryption; network security; data protection
+May 2024,P1 HL,12c,5,Explain,3,3.1,packet switching; data transmission
+May 2024,P1 HL,12d,3,Explain,3,3.1,VPN; social implications; working patterns
+May 2024,P1 HL,13a,1,Define,2,2.1,NOR; Boolean operator
+May 2024,P1 HL,13b,4,Construct,2,2.1,logic diagram; Boolean; gates
+May 2024,P1 HL,13c,2,State,4,4.1,logical rules; conditions; real-world
+May 2024,P1 HL,13d,2,Determine,4,4.3,operators; comparison; Boolean expression; variables
+May 2024,P1 HL,13e,6,Construct,4,4.2,pseudocode; algorithm; loop; branching
+May 2024,P1 HL,14a,2,State,1,1.1,data loss; causes
+May 2024,P1 HL,14b,2,Outline,1,1.1,data loss; consequences
+May 2024,P1 HL,14c,2,Describe,1,1.1,prevent data loss; backup
+May 2024,P1 HL,14d,2,Outline,1,1.1,data migration; problems
+May 2024,P1 HL,14e,3,Compare,2,2.1,primary memory; secondary storage; persistent storage
+May 2024,P1 HL,14f(i),1,Identify,6,6.1,resources; hardware; computer system
+May 2024,P1 HL,14f(ii),3,Explain,6,6.1,resources; network connectivity; tablet; desktop
+May 2024,P1 HL,15a(i),2,Outline,5,5.1,dynamic data structure; benefits
+May 2024,P1 HL,15a(ii),2,Outline,5,5.1,dynamic data structure; drawbacks
+May 2024,P1 HL,15b,5,Describe,5,5.1,linked list; operate logically; delete
+May 2024,P1 HL,15c,2,Describe,5,5.1,binary tree; node; parent; left-child; right-child
+May 2024,P1 HL,15d(i),3,Sketch,5,5.1,binary tree; inorder traversal
+May 2024,P1 HL,15d(ii),1,State,5,5.1,binary tree; leaf
+May 2024,P1 HL,16a,2,Construct,4,4.2,pseudocode; validation; loop; branching
+May 2024,P1 HL,16b,5,Complete,4,4.2,trace table; analyse algorithm; sub-programmes
+May 2024,P1 HL,16c,8,Construct,4,4.2,pseudocode; algorithm; sub-programmes; validation; strings
+May 2024,P1 HL,1a,1,State,1,1.1,SaaS; remote hosting; client hardware
+May 2024,P1 HL,1b,1,State,1,1.1,SaaS; remote hosting; drawbacks
+May 2024,P1 HL,2,2,Describe,1,1.1,user acceptance testing; testing
+May 2024,P1 HL,3,1,Define,1,1.2,peripheral; hardware; software
+May 2024,P1 HL,4,2,State,1,1.2,usability; digital devices; mobile
+May 2024,P1 HL,5,2,Identify,1,1.2,accessibility
+May 2024,P1 HL,6,2,Outline,2,2.1,CPU; registers; MDR
+May 2024,P1 HL,7a,1,State,2,2.1,binary; denary; number representation
+May 2024,P1 HL,7b,1,State,2,2.1,hexadecimal; binary
+May 2024,P1 HL,8,2,Identify,5,5.1,stack; applications
+May 2024,P1 HL,9,4,Outline,6,6.1,operating system; resource management; scheduling; multitasking
+Nov 2024,P1 HL,1,2,State,2,2.1,spreadsheets; features; application software
+Nov 2024,P1 HL,10,4,Outline,5,5.1,queue; enqueue; dequeue; data structure operations
+Nov 2024,P1 HL,11a,1,State,1,1.1,data security; theft; data protection
+Nov 2024,P1 HL,11b,2,Outline,2,2.1,operating system; memory management; program execution
+Nov 2024,P1 HL,11c,4,Justify,3,3.1,wired network; wireless network; advantages; disadvantages
+Nov 2024,P1 HL,11d,2,Describe,3,3.1,data packet; structure; header; payload
+Nov 2024,P1 HL,11e,6,Outline,3,3.1,protocols; network communication; standards
+Nov 2024,P1 HL,12a(i),1,State,2,2.1,Boolean operators; AND; OR; logic
+Nov 2024,P1 HL,12a(ii),1,State,4,4.3,constants; variables; expression
+Nov 2024,P1 HL,12a(iii),2,Determine,2,2.1,Boolean expression; evaluation; operator precedence
+Nov 2024,P1 HL,12b,4,Construct,2,2.1,truth table; Boolean logic; AND; OR; alarm system
+Nov 2024,P1 HL,12c(i),1,Identify,2,2.1,CPU; registers; memory data register; MDR
+Nov 2024,P1 HL,12c(ii),1,Identify,2,2.1,CPU; control unit; decoding; fetch-decode-execute
+Nov 2024,P1 HL,12c(iii),1,State,2,2.1,CPU; ALU; arithmetic logic unit; calculations
+Nov 2024,P1 HL,12c(iv),4,Explain,2,2.1,buses; data bus; address bus; control bus; machine instruction cycle
+Nov 2024,P1 HL,13a,2,Describe,5,5.1,stack; interrupt; app state; push; pop
+Nov 2024,P1 HL,13b,2,Describe,2,2.1,application software; health app; features
+Nov 2024,P1 HL,13c,2,Outline,2,2.1,screen resolution; image quality; pixels; binary representation
+Nov 2024,P1 HL,13d(i),4,Explain,3,3.1,GPS; global positioning system; satellite; location
+Nov 2024,P1 HL,13d(ii),2,Outline,1,1.2,privacy; location sharing; ethical concerns
+Nov 2024,P1 HL,13e,3,Explain,6,6.1,dedicated OS; generic OS; resource management; mobile
+Nov 2024,P1 HL,14a,4,Outline,5,5.1,linked list; static array; dynamic data structures; advantages
+Nov 2024,P1 HL,14b,5,Explain,5,5.1,linked list; searching; traversal; pointer
+Nov 2024,P1 HL,14c(i),4,Describe,5,5.1,double linked list; structure; next pointer; previous pointer
+Nov 2024,P1 HL,14c(ii),2,State,5,5.1,double linked list; applications; computing
+Nov 2024,P1 HL,15a,4,Construct,5,5.1,algorithm; pseudocode; two-dimensional array; counting
+Nov 2024,P1 HL,15b,5,Construct,5,5.1,algorithm; pseudocode; COUNT array; output; missing numbers
+Nov 2024,P1 HL,15c,6,Construct,5,5.1,algorithm; pseudocode; mode; COUNT array; maximum
+Nov 2024,P1 HL,2,2,Outline,1,1.1,beta testing; testing; types of testing
+Nov 2024,P1 HL,3,2,Describe,1,1.2,end users; system replacement; change management
+Nov 2024,P1 HL,4,2,Outline,1,1.2,system flow chart; system requirements; representation
+Nov 2024,P1 HL,5,3,Describe,3,3.1,firewall; network security; access control
+Nov 2024,P1 HL,6,2,State,4,4.3,subprograms; modularity; code reuse
+Nov 2024,P1 HL,7,4,Determine,5,5.1,recursion; trace; recursive algorithm
+Nov 2024,P1 HL,8,2,Outline,7,7.1,robots; automation; control systems
+Nov 2024,P1 HL,9a,1,State,5,5.1,binary tree; postorder traversal; tree traversal
+Nov 2024,P1 HL,9b,1,State,5,5.1,binary tree; inorder traversal; tree traversal

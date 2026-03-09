@@ -1,0 +1,37 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Outline,1,1.1,legacy systems; maintenance; compatibility issues
+2,2,Outline,1,1.1,failover; system reliability; data loss prevention
+3,2,Describe,2,2.1,control unit; CPU architecture; fetch-decode-execute cycle
+4,3,Construct,2,2.1,truth table; XOR; OR; Boolean logic; logic gates
+5,2,State,2,2.1,hexadecimal; binary; number representation; 8-bit register
+6,1,State,4,4.2,bubble sort; sorting algorithm; iteration; linear array
+7,3,Outline,4,4.1,virtual machine; abstraction; platform independence; software testing
+8,3,Explain,3,3.1,VoIP; network resources; collaborative working; data transmission
+9,4,Explain,6,6.1,operating system; multitasking; scheduling; resource management
+10,3,Discuss,1,1.2,CCTV; ethics; privacy; workplace monitoring; social implications
+11a,2,Identify,1,1.1,data planning; system requirements; data volume; data security
+11b,3,Describe,1,1.2,direct observation; requirements gathering; information gathering techniques
+11c,3,Describe,1,1.2,prototype; client demonstration; system design iteration
+11d,4,Discuss,1,1.1,data migration; data integrity; compatibility; data loss
+11e,3,Outline,1,1.1,parallel running; economic cost; implementation strategy
+12a,4,Distinguish,3,3.1,Ethernet; wireless; transmission reliability; network media characteristics
+12b,4,Describe,3,3.1,VPN; encryption; authentication; network security
+12c,1,State,3,3.1,VPN; tunneling protocol; encryption technology
+12d,6,Discuss,3,3.1,cloud storage; external services; advantages; disadvantages; privacy; security
+13a,2,Describe,5,5.1,linked list; dynamic data structure; insertion; deletion
+13b(i),1,Identify,4,4.1,concurrent processing; parallel processes
+13b(ii),1,Identify,4,4.1,concurrent processing; sequential processes; mutual exclusion
+13c,1,State,4,4.1,pre-condition; ticket validation; condition checking
+13d,3,Explain,4,4.1,algorithm order; sequential operations; concurrent barriers; system design
+13e,2,Outline,5,5.1,linked list; efficiency; memory usage; data structure design
+13f,5,Construct,4,4.2,algorithm; 2D array; pseudocode; conditional logic; fee calculation
+14a,1,State,5,5.1,2D array; array access; data retrieval
+14b,4,Suggest,7,7.1,GPS; sensor input; zone calculation; map display; embedded systems
+14c,5,Construct,4,4.2,algorithm; collection; searching; maximum value; pseudocode
+14d,3,Explain,5,5.1,binary tree; tree traversal; inorder traversal; sorting; ordered output
+14e,2,Describe,1,1.2,social networking; feedback; business impact; ethical implications
+15a,1,State,5,5.1,Fibonacci sequence; recursive thinking
+15b,3,Trace,5,5.1,recursion; trace; Fibonacci; recursive algorithm levels
+15c,6,Construct,5,5.1,Fibonacci; iterative algorithm; pseudocode; non-recursive solution
+15d,3,Construct,5,5.1,Fibonacci; algorithm; loop; recursive function call
+15e,2,Describe,5,5.1,stack; recursion; call stack; function calls; stack frames

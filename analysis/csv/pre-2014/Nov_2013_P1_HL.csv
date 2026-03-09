@@ -1,0 +1,45 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,State,1,1.1,user documentation; software package
+2,2,Outline,2,2.1,defragmentation; operating system; secondary memory
+3a,2,Identify,3,3.1,parity bit; data integrity; transmission
+3b,3,Compare,3,3.1,parity; checksum; data integrity
+4,2,State,1,1.2,HTML; website; system design
+5a,2,Outline,3,3.1,network security; Internet; threat
+5b,4,Outline,1,1.2,social and ethical; monitoring; networked world
+6,2,State,2,2.1,operating system; functions
+7a,1,Define,5,5.1,stack; characteristics
+7b,2,State,5,5.1,stack; applications
+8a,3,Construct,2,2.1,truth table; Boolean operators
+8b,2,Draw,2,2.1,logic diagram; AND OR NOT
+9a(i),1,State,2,2.1,accumulator; CPU; registers
+9a(ii),1,State,2,2.1,primary memory; RAM
+9b(i),2,Explain,6,6.1,interrupts; CPU; peripherals
+9b(ii),1,Identify,6,6.1,polling; communication
+10,3,Determine,2,2.1,hexadecimal; binary; number representation
+11,5,Construct,1,1.2,systems flowchart; system requirements
+12a,4,Outline,7,7.1,input devices; graphic tablet; data collection
+12b,2,Describe,3,3.1,communication; data transmission; protocol
+12c,2,Outline,3,3.1,data compression; transmission
+12d,2,Explain,3,3.1,encryption; network security
+13a,2,State,1,1.2,data collection; requirements; stakeholders
+13b,2,Explain,1,1.2,prototype; iteration; design
+13c,6,Discuss,1,1.2,social and ethical implications; IT systems
+14a,1,State,1,1.1,batch processing; type of processing
+14b(i),1,Outline,3,3.1,data transfer; transmission; sensors
+14b(ii),1,Outline,3,3.1,data transfer; server
+14c,3,Explain,7,7.1,analog-to-digital; sensor; processor
+14d,4,Explain,1,1.1,backup; prevent data loss
+15a,5,Outline,5,5.1,binary tree; insertion; in-order
+15b,2,Draw,5,5.1,binary tree; sketch
+15c,3,Explain,5,5.1,binary tree; efficiency; access
+16a,2,State,2,2.1,fixed point; two's complement; data representation
+16b,2,State,2,2.1,fixed point; most negative
+16c(i),2,Label,2,2.1,range; fixed point
+16c(ii),1,Label,2,2.1,underflow; representation
+16c(iii),1,Label,2,2.1,overflow; representation
+16d,2,Compare,2,2.1,fixed point; floating point
+17a(i),1,Identify,5,5.1,recursive thinking; terminating case
+17a(ii),1,Identify,5,5.1,recursive case
+17b,4,Determine,5,5.1,trace recursive algorithm
+17c,2,State,5,5.1,recursion; purpose of method
+17d,2,Suggest,5,5.1,recursion; alternative; iteration

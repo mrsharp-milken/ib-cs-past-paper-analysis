@@ -1,0 +1,41 @@
+question,marks,command_term,topic,subtopic,concepts
+1a,2,Outline,2,2.1,application software; spreadsheets
+1b,1,Define,2,2.1,operating system
+2,1,Outline,2,2.1,ALU; CPU
+3,2,Outline,2,2.1,binary; hexadecimal
+4a,2,Describe,5,5.1,stack; characteristics
+4b,2,Identify,5,5.1,stack; applications
+5,4,Construct,2,2.1,truth table; Boolean expression
+6,3,State,4,4.3,subprograms
+7,3,Trace,4,4.2,algorithm; flow chart; tracing
+8,2,Define,6,6.1,polling
+9a,1,Define,3,3.1,protocol
+9b,2,Outline,3,3.1,protocols; necessity
+10a,5,Draw,1,1.2,system requirements; flow chart
+10b,2,Describe,1,1.2,data processing; system design
+10c,3,Identify,1,1.1,causes of data loss
+10d,3,Describe,1,1.1,consequences of data loss
+10e,2,Identify,1,1.1,prevent data loss
+11a,2,Construct,5,5.1,two-dimensional array; algorithm
+11b,8,Construct,5,5.1,two-dimensional array; algorithm; magic square
+11c,5,Complete,5,5.1,algorithm; magic square
+12a,2,State,1,1.2,problem definition; requirements
+12b,1,Identify,4,4.2,flow chart; pseudocode; algorithm representation
+12c,3,Discuss,1,1.1,testing; beta testing
+12d,3,Outline,4,4.3,programming language; criteria
+12e(i),1,Identify,4,4.1,concurrent; project management
+12e(ii),1,Identify,4,4.1,sequential; order of activities
+12f,4,Explain,1,1.2,Gantt chart; project planning
+13a,2,Suggest,7,7.1,sensors; control systems
+13b,2,Outline,7,7.1,output transducer; control system
+13c(i),1,Suggest,3,3.1,transmission media; wired
+13c(ii),1,Suggest,3,3.1,transmission media; wireless
+13d,1,State,3,3.1,network security
+13e,2,Outline,3,3.1,GPS; data transmission
+13f,6,Discuss,7,7.1,ethical implications; embedded systems; GPS
+14a(i),3,Describe,5,5.1,linked list; dynamic
+14a(ii),3,Explain,5,5.1,linked list; search
+14b(i),1,State,5,5.1,binary tree; postorder traversal
+14b(ii),1,Identify,5,5.1,binary tree; inorder traversal
+14c,4,Describe,5,5.1,binary tree; deletion
+14d,3,Compare,5,5.1,binary tree; linked list; efficiency

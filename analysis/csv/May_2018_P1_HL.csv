@@ -1,0 +1,32 @@
+question,marks,command_term,topic,subtopic,concepts
+1a,2,Describe,1,1.2,stakeholders; requirements; methods of obtaining
+1b,2,Outline,1,1.2,prototype; system design; client demonstration
+2,2,Outline,2,2.1,memory data register; MDR; machine execution cycle; CPU registers
+3,2,Calculate,2,2.1,hexadecimal; binary representation; colour; data representation
+4,3,Explain,6,6.1,memory management; operating system; resource management
+5,3,Construct,2,2.1,logic diagram; Boolean expression; NOT; OR; AND; logic gates
+6,3,Determine,4,4.2,algorithm tracing; flowchart; div; mod; operators
+7,1,Define,5,5.1,recursion; definition
+8,2,Describe,5,5.1,queue; FIFO; characteristics; abstract data structure
+9,3,Compare,5,5.1,linked list; array; static vs dynamic; data structure comparison
+10,2,Outline,6,6.1,interrupt; operating system; resource management
+11a,5,Outline,4,4.2,pseudocode; sequential file; matching records; algorithm design
+11b,4,Describe,1,1.1,data loss; backup methods; data restoration
+11c,6,Discuss,1,1.2,data privacy; cloud storage; access control; social and ethical issues
+12a,1,Define,4,4.1,concurrent processing; definition
+12b,1,Identify,4,4.1,concurrent processing; Gantt chart; parallel tasks
+12c,1,Identify,4,4.1,sequential processing; Gantt chart; task ordering
+12d,4,Outline,3,3.1,wireless LAN; WLAN; advantages; wireless networking
+12e,4,Discuss,3,3.1,WLAN security; network security; security issues
+12f,4,Explain,3,3.1,VPN; virtual private network; remote access; security
+13a,5,Construct,5,5.1,stack; pseudocode; search algorithm; pop operation
+13b,3,Explain,5,5.1,binary search tree; stack; comparison; searching; data structures
+13c,4,Describe,5,5.1,recursion; binary search tree; insertion; recursive procedure
+13d,3,Sketch,5,5.1,binary search tree; tree sketch; ordered insertion
+14a,4,Describe,7,7.1,control system; hardware components; sensors; light sensor; microprocessor
+14b,3,Explain,7,7.1,feedback; control system; sensor; output transducer
+14c,5,Outline,7,7.1,control algorithm; feedback loop; sensors; water content; light intensity; conditions
+15a,4,Construct,5,5.1,two-dimensional array; pseudocode; collection; loop; reading data
+15b,4,Construct,5,5.1,two-dimensional array; procedure; sum; column; pseudocode
+15c,3,Construct,5,5.1,two-dimensional array; sub-procedure; average; maximum; pseudocode
+15d,7,Construct,5,5.1,two-dimensional array; procedure; sales calculation; loops; array access; pseudocode

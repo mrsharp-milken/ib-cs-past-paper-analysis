@@ -1,0 +1,37 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,State,2,2.1,primary memory; secondary memory; persistent storage
+2,1,State,2,2.1,hexadecimal; binary; number representation
+3a,2,Outline,4,4.2,sorting; standard algorithms; linear arrays
+3b,2,Outline,4,4.2,bubble sort; selection sort; comparison
+4,2,Determine,2,2.1,Boolean operators; truth value; expression
+5a,1,Identify,5,5.1,binary tree; non-binary tree; structure
+5b,2,Construct,5,5.1,binary search tree; deletion; root
+6,3,Explain,3,3.1,compression; data transmission; network
+7a,2,Outline,4,4.1,abstraction; sub-procedures
+7b,3,Evaluate,4,4.1,concurrent processing; software design
+7c,2,Outline,1,1.1,releases; updates; strategies
+8,3,Explain,6,6.1,operating system; peripherals; hardware interfaces
+9a(i),2,Outline,1,1.2,surveys; requirements; stakeholders
+9a(ii),2,Outline,1,1.2,surveys; requirements; disadvantages
+9b,1,Identify,1,1.2,requirements; stakeholders; methods
+9c,4,Outline,1,1.2,prototypes; proposed system; client
+9d,3,Explain,1,1.2,iteration; design process; analysis
+9e,3,Explain,1,1.1,testing; implementation
+10a,4,Outline,1,1.1,access control; data loss prevention; security
+10b,4,Outline,3,3.1,network security; methods
+10c,4,Explain,1,1.1,data recovery; data loss; backup
+10d,3,Explain,3,3.1,VPN; security; remote access
+11a,4,Explain,7,7.1,GPS; control system; positioning
+11b(i),1,State,7,7.1,real-time data; display; arrival
+11b(ii),2,Outline,7,7.1,sensors; microprocessor; accuracy
+11c,4,Outline,4,4.2,application; data; user information
+11d,4,Discuss,7,7.1,GPS; transportation; embedded systems
+12a,3,Sketch,5,5.1,circular linked list; insertion; deletion
+12b,2,Outline,5,5.1,circular linked list; traversal; last node
+12c,4,Describe,5,5.1,linked list; iteration; algorithm; sum
+12d,4,Compare,5,5.1,static; dynamic data structures
+12e,2,Identify,5,5.1,queue; applications
+13a,1,State,5,5.1,two-dimensional array; lookup
+13b,5,Construct,5,5.1,two-dimensional array; validation; algorithm
+13c,6,Construct,5,5.1,two-dimensional array; search; algorithm; distance
+13d,3,Explain,5,5.1,two-dimensional array; algorithm; travel time

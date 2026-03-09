@@ -1,0 +1,31 @@
+question,marks,command_term,topic,subtopic,concepts
+1,2,Describe,1,1.1,software updates; release management; user notification
+2,4,Construct,2,2.1,Boolean expression; truth table; AND; OR; NOT
+3,3,Outline,3,3.1,VPN; virtual private network; network security
+4,4,Trace,4,4.2,trace table; algorithm; mod; div; loop; conditional
+5,3,Apply,4,4.2,selection sort; sorting algorithm; linear array
+6,3,Describe,7,7.1,GPS; satellite; trilateration; positioning; sensor
+7,3,Describe,6,6.1,operating system; abstraction; network; complexity hiding
+8a,1,State,5,5.1,binary tree; postorder traversal; tree traversal
+8b,2,Sketch,5,5.1,binary tree; node deletion; postorder traversal
+9a,6,Construct,4,4.2,algorithm; pseudocode; conditional logic; date comparison; database
+9b,4,Explain,2,2.1,mail merge; database; word processor; application software
+9c,2,Outline,1,1.1,data loss; consequences; customers; business
+9d,3,Describe,1,1.1,data loss prevention; backup; data security
+10a,3,Outline,3,3.1,OSI model; network layers; communication
+10b,3,Outline,3,3.1,protocol; network communication; standards
+10c,2,Identify,4,4.1,inputs; data; system requirements; appointment
+10d,3,Describe,5,5.1,data structure; two-dimensional array; records; appointments
+10e,5,Outline,4,4.2,procedure; algorithm; data structure; appointment scheduling
+11a,3,Describe,5,5.1,linked list; nodes; pointers; features
+11b,3,Construct,4,4.2,algorithm; time conversion; mod; div; 24-hour format
+11c,4,Explain,5,5.1,linked list; node removal; pointers; diagram
+11d,5,Compare,5,5.1,linked list; queue; FIFO; dynamic data structure; comparison
+12a,4,Outline,7,7.1,sensors; microprocessor; control system; traffic lights
+12b,3,Suggest,7,7.1,feedback; sensors; control system; traffic lights; state reset
+12c,5,Discuss,7,7.1,centralized control; distributed systems; advantages; disadvantages
+12d,3,Discuss,7,7.1,social implications; monitoring; surveillance; privacy; embedded systems
+13a,2,Explain,5,5.1,stack; LIFO; suitability; data structure
+13b,5,Construct,5,5.1,stack; pop; push; algorithm; maze navigation
+13c,1,State,4,4.2,algorithm trace; coordinates; movement
+13d,6,Trace,5,5.1,recursive algorithm; trace table; coordinate system; recursion
